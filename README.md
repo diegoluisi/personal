@@ -58,118 +58,118 @@ Conversação – Avançado
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
 ##Experiências Profissional:
-######C&A Modas do Brasil
-Cargo: Analista de Infraestrutura Linux/Unix Sr.
-Barueri – SP
-01/08/2014 - Atual
-Seguimento: Varejo
-Projetos:
-NFCE – Implantação infraestrutura de Sistemas.
-Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
-Puppet - Orquestração de Infraestrutura e Aplicações.
-Centrify/MacOS - Mobilidade.
-Rundeck - Automação de Jobs e malha batch.
-Device42 – CMDB. 
-SuSE Manager – Implantação SuSE Manager.
+###C&A Modas do Brasil
+- Cargo: Analista de Infraestrutura Linux/Unix Sr.
+- Barueri – SP
+- 08/2014 - Atual
+- Seguimento: Varejo
+- Projetos:
+- NFCE – Implantação infraestrutura de Sistemas.
+- Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
+- Puppet - Orquestração de Infraestrutura e Aplicações.
+- Centrify/MacOS - Mobilidade.
+- Rundeck - Automação de Jobs e malha batch.
+- Device42 – CMDB. 
+- SuSE Manager – Implantação SuSE Manager.
 
-######e-Deploy Integrated Technology and Solutions
-Cargo: Zabbix Specialist 
-Barueri – SP
-10/2013  - 07/2014
-Seguimento: Tecnologia
-Projetos: 
-Burger King
-POC Monitoração de Lojas e PDV.
-MC Donalds 
-Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
-GOL
-Check-in Mobile
-Monitoração Check-in
-Marisa
-o	Monitoração de Lojas
-•	Drogaria SP
-o	Monitoração de Infraestrutura, Banco de Dados e Lojas
-•	Staples
-o	Monitoração de Infraestrutura
-•	Editora Abril
-o	Monitoração de Aplicações WEB
-o	Integração New Relic
-o	Monitoração de Infraestrutura
-•	UAB Motors
-o	Monitoração de Firewall, Infraestrutura e Lojas.
+###e-Deploy Integrated Technology and Solutions
+- Cargo: Zabbix Specialist 
+- Barueri – SP
+- 10/2013  - 07/2014
+- Seguimento: Tecnologia
+- Projetos: 
+- Burger King
+- POC Monitoração de Lojas e PDV.
+- MC Donalds 
+- Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
+- GOL
+- Check-in Mobile
+- Monitoração Check-in
+- Marisa
+- Monitoração de Lojas
+- Drogaria SP
+- Monitoração de Infraestrutura, Banco de Dados e Lojas
+- Staples
+- Monitoração de Infraestrutura
+- Editora Abril
+- Monitoração de Aplicações WEB
+- Integração New Relic
+- Monitoração de Infraestrutura
+- UAB Motors
+- Monitoração de Firewall, Infraestrutura e Lojas.
 
-######Grupo Logos – Logistica e Transportes Planejados
-•	Cargo: Administrador de Redes
-•	Barueri – SP
-•	16/01/2012 – 30/09/2013
-•	Seguimento: Logística e Transportes
-•	Projetos: 
-•	Sonicwall – Reestruturação 
-•	Zimbra - Upgrade
-•	Vmware – Restruturação do Ambiente Virtual
-•	Zabbix -  Monitoração de Infraestrutura e sistemas
-•	Puppet - Orquestração do ambiente Linux
-•	Xeams – Anti Spam
+###Grupo Logos – Logistica e Transportes Planejados
+- Cargo: Administrador de Redes
+- Barueri – SP
+- 01/2012 – 09/2013
+- Seguimento: Logística e Transportes
+- Projetos: 
+- Sonicwall – Reestruturação 
+- Zimbra - Upgrade
+- Vmware – Restruturação do Ambiente Virtual
+- Zabbix -  Monitoração de Infraestrutura e sistemas
+- Puppet - Orquestração do ambiente Linux
+- Xeams – Anti Spam
 
 
 
-######FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
-•	Cargo: Administrador de Redes
-•	Local: Agudos – SP
-•	Duração: 04/2010 a 03/2011
-•	Seguimento: Órgão Sindical. 
-•	Projetos:
-•	Hyper-V – Implatação 
-•	Active Directory - Implantação 
-•	Proxy – Squid/Squid-Guard/Sarg – Implantação 
-•	Terminal Services - Implantação
+###FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
+- Cargo: Administrador de Redes
+- Local: Agudos – SP
+- Duração: 04/2010 a 03/2011
+- Seguimento: Órgão Sindical. 
+- Projetos:
+- Hyper-V – Implatação 
+- Active Directory - Implantação 
+- Proxy – Squid/Squid-Guard/Sarg – Implantação 
+- Terminal Services - Implantação
 
-######Grupo Santa Alice
-•	Cargo: Administrador de Redes
-•	Local: Presidente Prudente – SP
-•	Duração: 05/2006 a 09/2008
-•	Seguimento: Instituição de Ensino médio e fundamental.
-•	Projetos: 
-•	Active Directory 
-•	Proxy - Squid/Squid-Guard/Sarg
+###Grupo Santa Alice
+- Cargo: Administrador de Redes
+- Local: Presidente Prudente – SP
+- Duração: 05/2006 a 09/2008
+- Seguimento: Instituição de Ensino médio e fundamental.
+- Projetos: 
+- Active Directory 
+- Proxy - Squid/Squid-Guard/Sarg
 
-######e-Future Informática
-•	Cargo: Sócio Proprietário
-•	Local: Presidente Prudente – SP
-•	Duração: 04/2002 a 09/2008
-•	Seguimento: Empresa de Manutenção e Suporte em TI.
-•	Funções Exercidas: Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
+###e-Future Informática
+- Cargo: Sócio Proprietário
+- Local: Presidente Prudente – SP
+- Duração: 04/2002 a 09/2008
+- Seguimento: Empresa de Manutenção e Suporte em TI.
+- Funções Exercidas: Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
 
 ##Conhecimentos específicos:
 
-######Operation System:
-•	Linux (Red Hat, Debian, SuSE)
-•	Unix (HP-UX, IBM-AIX)
-•	Windows Server (2000, 2003, 2008, 2012)
-•	ESXi (4.0, 5.0, 6.0)
+###Operation System:
+- Linux (Red Hat, Debian, SuSE)
+- Unix (HP-UX, IBM-AIX)
+- Windows Server (2000, 2003, 2008, 2012)
+- ESXi (4.0, 5.0, 6.0)
 
 
-######Microsoft:
-•	Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
-•	Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
-•	Servidor Banco de Dados (MS SQL, Firebird)
+###Microsoft:
+- Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
+- Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
+- Servidor Banco de Dados (MS SQL, Firebird)
 
 
-######Linux:
-•	AntiSpam:
-•	Xeams, Sophos, SpamAssassin
-•	Automation/Continuous Integration:
-•	Rundeck e Jenkins
-•	Back-up 
-•	Bacula
-•	Containers Management
-•	Rancher, Docker
-•	Version Control System (VCS)
-•	Git
-•	Data Base:
-•	Mysql, PostgreSQL, MariaDB e Oracle.
-•	DNS Server:
+###Linux:
+- AntiSpam:
+- Xeams, Sophos, SpamAssassin
+- Automation/Continuous Integration:
+- Rundeck e Jenkins
+- Back-up 
+- Bacula
+- Containers Management
+- Rancher, Docker
+- Version Control System (VCS)
+- Git
+- Data Base:
+- Mysql, PostgreSQL, MariaDB e Oracle.
+- DNS Server:
 •	Bind9
 •	File Server:
 •	SAMBA
