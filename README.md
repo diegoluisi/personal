@@ -1,13 +1,13 @@
 ##Dados Pessoais:
-Diego Fernando Luisi
-Brasileiro, Solteiro.
-Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
-Data de Nascimento: 12 de fevereiro de 1986
-Telefone: +55 (11) 94464-0434 
-LPI ID: LPI000249557 
-Correio Eletrônico: contato@diegoluisi.eti.br 
-Skype: diego.luisi
-Blog: http://www.diegoluisi.eti.br
+- Diego Fernando Luisi
+- Brasileiro, Solteiro.
+- Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
+- Data de Nascimento: 12 de fevereiro de 1986
+- Telefone: +55 (11) 94464-0434 
+- LPI ID: LPI000249557 
+- Correio Eletrônico: contato@diegoluisi.eti.br 
+- Skype: diego.luisi
+- Blog: http://www.diegoluisi.eti.br
 
 
 ##Resumo das qualificações: 
@@ -29,26 +29,26 @@ Leitura / Escrita – Avançado
 Conversação – Avançado
 
 ##Certificações:
-SonicWALL Network Security Basic Administration (CSSA)
-SonicWALL Network Security Advanced Administration (CSSP)
-ITIL® v3 - Foundation Certificate in IT Service Management
+- SonicWALL Network Security Basic Administration (CSSA)
+- SonicWALL Network Security Advanced Administration (CSSP)
+- ITIL® v3 - Foundation Certificate in IT Service Management
 
 ##Cursos e Seminários:
-SuSE Manager 3 Administration (24 Horas)
-Citrix Netscaler Essencial CNS-220 – (24 Horas)
-Puppet Fundamentals – (24 Horas)
-Puppet Practitioner – (24 Horas)
-Puppet Introduction – (8 Horas)
-AIX AN140BR Jump Start – (40 Horas)
-SuSE Linux Enterprise server 12 (40 Horas)
-SonicWALL – Network Security Basic Administrator (40 horas)
-VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
-Linux – Curso preparatorio LX0-101/102 (8 semanas)
-ITIL - V3 Foundation – (18 horas)
-Zimbra – Suite de Colaboração (4 horas)
-Zabbix – Entreprise Open Source Monitoring Solution (4 horas)
-NGINX – Servidores Web de Alta Performance (3 horas)
-Mysql – Gerenciamento de Banco de Dados (3 horas)
+- SuSE Manager 3 Administration (24 Horas)
+- Citrix Netscaler Essencial CNS-220 – (24 Horas)
+- Puppet Fundamentals – (24 Horas)
+- Puppet Practitioner – (24 Horas)
+- Puppet Introduction – (8 Horas)
+- AIX AN140BR Jump Start – (40 Horas)
+- SuSE Linux Enterprise server 12 (40 Horas)
+- SonicWALL – Network Security Basic Administrator (40 horas)
+- VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
+- Linux – Curso preparatorio LX0-101/102 (8 semanas)
+- ITIL - V3 Foundation – (18 horas)
+- Zimbra – Suite de Colaboração (4 horas)
+- Zabbix – Entreprise Open Source Monitoring Solution (4 horas)
+- NGINX – Servidores Web de Alta Performance (3 horas)
+- Mysql – Gerenciamento de Banco de Dados (3 horas)
 
 ##Experiências Profissional:
 ######C&A Modas do Brasil
