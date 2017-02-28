@@ -202,22 +202,22 @@ Conversação – Avançado
 •	Security/Audit
 •	Fail2Ban, Postgrey, Clamav e Syslog-NG
 
-######VMware:
-•	Esx e Esxi (5.0 e 5.5)
-•	Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
+###VMware:
+- Esx e Esxi (5.0 e 5.5)
+- Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
 
-######Unified Threat Management (UTM ):
-•	Sonicwall (CSSA e CSSP)
-•	Cisco 
-•	Juniper
-•	Netscaler
+###Unified Threat Management (UTM ):
+- Sonicwall (CSSA e CSSP)
+- Cisco 
+- Juniper
+- Netscaler
 
-######Endpoint Protection Platform (EPP):
-•	ESET Endpoint Security
-•	Kaspersky
-•	Trend Micro
+###Endpoint Protection Platform (EPP):
+- ESET Endpoint Security
+- Kaspersky
+- Trend Micro
 
-######Data Storage
-•	HP 3Par
-•	IBM 
+###Data Storage
+- HP 3Par
+- IBM 
 
