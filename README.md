@@ -29,55 +29,56 @@ Leitura / Escrita – Avançado
 Conversação – Avançado
 
 ##Certificações:
-###SonicWALL Network Security Basic Administration (CSSA)
-###SonicWALL Network Security Advanced Administration (CSSP)
-###ITIL® v3 - Foundation Certificate in IT Service Management
+SonicWALL Network Security Basic Administration (CSSA)
+SonicWALL Network Security Advanced Administration (CSSP)
+ITIL® v3 - Foundation Certificate in IT Service Management
 
 ##Cursos e Seminários:
-###	SuSE Manager 3 Administration (24 Horas)
-###	Citrix Netscaler Essencial CNS-220 – (24 Horas)
-•	Puppet Fundamentals – (24 Horas)
-•	Puppet Practitioner – (24 Horas)
-•	Puppet Introduction – (8 Horas)
-•	AIX AN140BR Jump Start – (40 Horas)
-•	SuSE Linux Enterprise server 12 (40 Horas)
-•	SonicWALL – Network Security Basic Administrator (40 horas)
-•	VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
-•	Linux – Curso preparatorio LX0-101/102 (8 semanas)
-•	ITIL - V3 Foundation – (18 horas)
-•	Zimbra – Suite de Colaboração (4 horas)
-•	Zabbix – Entreprise Open Source Monitoring Solution (4 horas)
-•	NGINX – Servidores Web de Alta Performance (3 horas)
-•	Mysql – Gerenciamento de Banco de Dados (3 horas)
-•	Experiências Profissional:
-•	C&A Modas do Brasil
-•	Cargo: Analista de Infraestrutura Linux/Unix Sr.
-•	Barueri – SP
-•	01/08/2014 - Atual
-•	Seguimento: Varejo
-•	Projetos:
-•	NFCE – Implantação infraestrutura de Sistemas.
-•	Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
-•	Puppet - Orquestração de Infraestrutura e Aplicações.
-•	Centrify/MacOS - Mobilidade.
-•	Rundeck - Automação de Jobs e malha batch.
-•	Device42 – CMDB. 
-•	SuSE Manager – Implantação SuSE Manager.
+SuSE Manager 3 Administration (24 Horas)
+Citrix Netscaler Essencial CNS-220 – (24 Horas)
+Puppet Fundamentals – (24 Horas)
+Puppet Practitioner – (24 Horas)
+Puppet Introduction – (8 Horas)
+AIX AN140BR Jump Start – (40 Horas)
+SuSE Linux Enterprise server 12 (40 Horas)
+SonicWALL – Network Security Basic Administrator (40 horas)
+VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
+Linux – Curso preparatorio LX0-101/102 (8 semanas)
+ITIL - V3 Foundation – (18 horas)
+Zimbra – Suite de Colaboração (4 horas)
+Zabbix – Entreprise Open Source Monitoring Solution (4 horas)
+NGINX – Servidores Web de Alta Performance (3 horas)
+Mysql – Gerenciamento de Banco de Dados (3 horas)
 
-•	e-Deploy Integrated Technology and Solutions
-•	Cargo: Zabbix Specialist 
-•	Barueri – SP
-•	01/10/2013  - 31/07/2014
-•	Seguimento: Tecnologia
-•	Projetos: 
-•	Burger King
-o	POC Monitoração de Lojas e PDV.
-•	MC Donalds 
-o	Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
-•	GOL
-o	Check-in Mobile
-o	Monitoração Check-in
-•	Marisa
+##Experiências Profissional:
+######C&A Modas do Brasil
+Cargo: Analista de Infraestrutura Linux/Unix Sr.
+Barueri – SP
+01/08/2014 - Atual
+Seguimento: Varejo
+Projetos:
+NFCE – Implantação infraestrutura de Sistemas.
+Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
+Puppet - Orquestração de Infraestrutura e Aplicações.
+Centrify/MacOS - Mobilidade.
+Rundeck - Automação de Jobs e malha batch.
+Device42 – CMDB. 
+SuSE Manager – Implantação SuSE Manager.
+
+######e-Deploy Integrated Technology and Solutions
+Cargo: Zabbix Specialist 
+Barueri – SP
+10/2013  - 07/2014
+Seguimento: Tecnologia
+Projetos: 
+Burger King
+POC Monitoração de Lojas e PDV.
+MC Donalds 
+Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
+GOL
+Check-in Mobile
+Monitoração Check-in
+Marisa
 o	Monitoração de Lojas
 •	Drogaria SP
 o	Monitoração de Infraestrutura, Banco de Dados e Lojas
@@ -90,7 +91,7 @@ o	Monitoração de Infraestrutura
 •	UAB Motors
 o	Monitoração de Firewall, Infraestrutura e Lojas.
 
-•	Grupo Logos – Logistica e Transportes Planejados
+######Grupo Logos – Logistica e Transportes Planejados
 •	Cargo: Administrador de Redes
 •	Barueri – SP
 •	16/01/2012 – 30/09/2013
@@ -105,7 +106,7 @@ o	Monitoração de Firewall, Infraestrutura e Lojas.
 
 
 
-•	FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
+######FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
 •	Cargo: Administrador de Redes
 •	Local: Agudos – SP
 •	Duração: 04/2010 a 03/2011
@@ -116,7 +117,7 @@ o	Monitoração de Firewall, Infraestrutura e Lojas.
 •	Proxy – Squid/Squid-Guard/Sarg – Implantação 
 •	Terminal Services - Implantação
 
-•	Grupo Santa Alice
+######Grupo Santa Alice
 •	Cargo: Administrador de Redes
 •	Local: Presidente Prudente – SP
 •	Duração: 05/2006 a 09/2008
@@ -125,7 +126,7 @@ o	Monitoração de Firewall, Infraestrutura e Lojas.
 •	Active Directory 
 •	Proxy - Squid/Squid-Guard/Sarg
 
-•	e-Future Informática
+######e-Future Informática
 •	Cargo: Sócio Proprietário
 •	Local: Presidente Prudente – SP
 •	Duração: 04/2002 a 09/2008
@@ -133,22 +134,22 @@ o	Monitoração de Firewall, Infraestrutura e Lojas.
 •	Funções Exercidas: Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
 
-•	Conhecimentos específicos:
+##Conhecimentos específicos:
 
-•	Operation System:
+######Operation System:
 •	Linux (Red Hat, Debian, SuSE)
 •	Unix (HP-UX, IBM-AIX)
 •	Windows Server (2000, 2003, 2008, 2012)
 •	ESXi (4.0, 5.0, 6.0)
 
 
-•	Microsoft:
+######Microsoft:
 •	Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
 •	Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
 •	Servidor Banco de Dados (MS SQL, Firebird)
 
 
-•	Linux:
+######Linux:
 •	AntiSpam:
 •	Xeams, Sophos, SpamAssassin
 •	Automation/Continuous Integration:
@@ -194,22 +195,22 @@ o	Monitoração de Firewall, Infraestrutura e Lojas.
 •	Security/Audit
 •	Fail2Ban, Postgrey, Clamav e Syslog-NG
 
-•	VMware:
+######VMware:
 •	Esx e Esxi (5.0 e 5.5)
 •	Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
 
-•	Unified Threat Management (UTM ):
+######Unified Threat Management (UTM ):
 •	Sonicwall (CSSA e CSSP)
 •	Cisco 
 •	Juniper
 •	Netscaler
 
-•	Endpoint Protection Platform (EPP):
+######Endpoint Protection Platform (EPP):
 •	ESET Endpoint Security
 •	Kaspersky
 •	Trend Micro
 
-•	Data Storage
+######Data Storage
 •	HP 3Par
 •	IBM 
 
