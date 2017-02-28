@@ -29,13 +29,13 @@ Leitura / Escrita – Avançado
 Conversação – Avançado
 
 ##Certificações:
-•	SonicWALL Network Security Basic Administration (CSSA)
-•	SonicWALL Network Security Advanced Administration (CSSP)
-•	ITIL® v3 - Foundation Certificate in IT Service Management
+###SonicWALL Network Security Basic Administration (CSSA)
+###SonicWALL Network Security Advanced Administration (CSSP)
+###ITIL® v3 - Foundation Certificate in IT Service Management
 
-•	Cursos e Seminários:
-•	 SuSE Manager 3 Administration (24 Horas)
-•	Citrix Netscaler Essencial CNS-220 – (24 Horas)
+##Cursos e Seminários:
+###	SuSE Manager 3 Administration (24 Horas)
+###	Citrix Netscaler Essencial CNS-220 – (24 Horas)
 •	Puppet Fundamentals – (24 Horas)
 •	Puppet Practitioner – (24 Horas)
 •	Puppet Introduction – (8 Horas)
