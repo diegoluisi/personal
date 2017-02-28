@@ -170,37 +170,37 @@ Conversação – Avançado
 - Data Base:
 - Mysql, PostgreSQL, MariaDB e Oracle.
 - DNS Server:
-•	Bind9
-•	File Server:
-•	SAMBA
-•	Service Desk / CMDB:
-•	GLPI, Jira, OTRS, Ocs Inventory e Device42.
-•	Mail Server:
-•	Zimbra, Postfix, Dovecot.
-•	Middlewares:
-•	Apache, JBoss, Nginx, Tomcat, Weblogic.
-•	Monitoring :
-•	Nagios
-•	Oracle Enterprise Manager (OEM12)
-•	Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
-•	Open-Source System Management
-•	Spacewalk, SuSE-Manager, Satellite
-•	Orchestration:
-•	MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, 
-•	Proxy Server 
-•	Squid, Sarg, SquidGuard
-•	Search and Analytics
-•	Elasticsearch, Grafana, Kibana, Logstash.
-•	Voip Server:
-•	Asterix, Elastix
-•	VPN Server:
-•	 OpenVPN
-•	XMPP Server 
-•	Openfire
-•	Servidor FTP:
-•	VsFTP, ProFTPd
-•	Security/Audit
-•	Fail2Ban, Postgrey, Clamav e Syslog-NG
+- Bind9
+- File Server:
+- SAMBA
+- Service Desk / CMDB:
+- GLPI, Jira, OTRS, Ocs Inventory e Device42.
+- Mail Server:
+- Zimbra, Postfix, Dovecot.
+- Middlewares:
+- Apache, JBoss, Nginx, Tomcat, Weblogic.
+- Monitoring :
+- Nagios
+- Oracle Enterprise Manager (OEM12)
+- Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
+- Open-Source System Management
+- Spacewalk, SuSE-Manager, Satellite
+- Orchestration:
+- MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, 
+- Proxy Server 
+- Squid, Sarg, SquidGuard
+- Search and Analytics
+- Elasticsearch, Grafana, Kibana, Logstash.
+- Voip Server:
+- Asterix, Elastix
+- VPN Server:
+-  OpenVPN
+- XMPP Server 
+- Openfire
+- Servidor FTP:
+- VsFTP, ProFTPd
+- Security/Audit
+- Fail2Ban, Postgrey, Clamav e Syslog-NG
 
 ###VMware:
 - Esx e Esxi (5.0 e 5.5)
