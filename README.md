@@ -11,17 +11,17 @@
 
 
 ##Resumo das qualificações: 
-Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
+- Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
 
 
 ##Expectativas Profissionais:
-Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
+- Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
 ##Formação Acadêmica:
-Universidade do Oeste Paulista (Unoeste) 
-Sistemas de Informação
-Pres. Prudente – SP
-Período:  2004 a 2007 (incompleto)
+- Universidade do Oeste Paulista (Unoeste) 
+	Sistemas de Informação
+	Pres. Prudente – SP
+	Período:  2004 a 2007 (incompleto)
 
 ##Idiomas:
 Inglês
