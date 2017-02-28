@@ -1,33 +1,34 @@
-Dados Pessoais:
-	Diego Fernando Luisi
-	Brasileiro, Solteiro.
-	Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
-	Data de Nascimento: 12 de fevereiro de 1986
-	Telefone: +55 (11) 94464-0434 
-	LPI ID: LPI000249557 
-	Correio Eletrônico: contato@diegoluisi.eti.br 
-	Skype: diego.luisi
-	Blog: http://www.diegoluisi.eti.br
+##Dados Pessoais:
+Diego Fernando Luisi
+Brasileiro, Solteiro.
+Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
+Data de Nascimento: 12 de fevereiro de 1986
+Telefone: +55 (11) 94464-0434 
+LPI ID: LPI000249557 
+Correio Eletrônico: contato@diegoluisi.eti.br 
+Skype: diego.luisi
+Blog: http://www.diegoluisi.eti.br
 
 
-•	Resumo das qualificações: 
-		Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
+##Resumo das qualificações: 
+Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
 
-•	Expectativas Profissionais:
-		Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
-•	Formação Acadêmica:
-		Universidade do Oeste Paulista (Unoeste) 
-		Sistemas de Informação
-		Pres. Prudente – SP
-		Período:  2004 a 2007 (incompleto)
+##Expectativas Profissionais:
+Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
-•	Idiomas:
-•	Inglês
-•	Leitura / Escrita – Avançado
-•	Conversação – Avançado
+##Formação Acadêmica:
+Universidade do Oeste Paulista (Unoeste) 
+Sistemas de Informação
+Pres. Prudente – SP
+Período:  2004 a 2007 (incompleto)
 
-•	Certificações:
+##Idiomas:
+Inglês
+Leitura / Escrita – Avançado
+Conversação – Avançado
+
+##Certificações:
 •	SonicWALL Network Security Basic Administration (CSSA)
 •	SonicWALL Network Security Advanced Administration (CSSP)
 •	ITIL® v3 - Foundation Certificate in IT Service Management
