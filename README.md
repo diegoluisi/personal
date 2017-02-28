@@ -24,9 +24,9 @@
 	Período:  2004 a 2007 (incompleto)
 
 ##Idiomas:
-Inglês
-Leitura / Escrita – Avançado
-Conversação – Avançado
+- Inglês
+-- Leitura / Escrita – Avançado
+-- Conversação – Avançado
 
 ##Certificações:
 - SonicWALL Network Security Basic Administration (CSSA)
