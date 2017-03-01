@@ -21,17 +21,15 @@
 - Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
 ##Formação Acadêmica:
-
-- Universidade do Oeste Paulista (Unoeste) 
-	Sistemas de Informação
-	Pres. Prudente – SP
-	Período:  2004 a 2007 (incompleto)
+###- Sistemas de Informação
+###- Universidade do Oeste Paulista (Unoeste) 
+###- Pres. Prudente – SP
+###- Período:  2004 a 2007 (incompleto)
 
 ##Idiomas:
-
-####Inglês
-- Leitura / Escrita – Avançado
-- Conversação – Avançado
+###- Inglês
+###- Leitura / Escrita – Avançado
+###- Conversação – Avançado
 
 ##Certificações:
 
