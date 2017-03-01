@@ -1,5 +1,4 @@
 ##Dados Pessoais:
-
 - Diego Fernando Luisi
 - Brasileiro, Solteiro.
 - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
@@ -12,30 +11,27 @@
 
 
 ##Resumo das qualificações: 
-
 - Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
 
 
 ##Expectativas Profissionais:
-
 - Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
 ##Formação Acadêmica:
-#####- Sistemas de Informação
+- Sistemas de Informação
 - Universidade do Oeste Paulista (Unoeste) 
 - Pres. Prudente – SP
 - Período:  2004 a 2007 (incompleto)
 
 ##Idiomas:
-#####- Inglês
+- Inglês
 - Leitura / Escrita – Avançado
 - Conversação – Avançado
 
 ##Certificações:
-
-#####- SonicWALL Network Security Basic Administration (CSSA)
-#####- SonicWALL Network Security Advanced Administration (CSSP)
-#####- ITIL® v3 - Foundation Certificate in IT Service Management
+- SonicWALL Network Security Basic Administration (CSSA)
+- SonicWALL Network Security Advanced Administration (CSSP)
+- ITIL® v3 - Foundation Certificate in IT Service Management
 
 ##Cursos e Seminários:
 
