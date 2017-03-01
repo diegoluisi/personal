@@ -21,21 +21,21 @@
 - Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
 ##Formação Acadêmica:
-###- Sistemas de Informação
-###- Universidade do Oeste Paulista (Unoeste) 
-###- Pres. Prudente – SP
-###- Período:  2004 a 2007 (incompleto)
+#####- Sistemas de Informação
+- Universidade do Oeste Paulista (Unoeste) 
+- Pres. Prudente – SP
+- Período:  2004 a 2007 (incompleto)
 
 ##Idiomas:
-###- Inglês
-###- Leitura / Escrita – Avançado
-###- Conversação – Avançado
+#####- Inglês
+- Leitura / Escrita – Avançado
+- Conversação – Avançado
 
 ##Certificações:
 
-- SonicWALL Network Security Basic Administration (CSSA)
-- SonicWALL Network Security Advanced Administration (CSSP)
-- ITIL® v3 - Foundation Certificate in IT Service Management
+#####- SonicWALL Network Security Basic Administration (CSSA)
+#####- SonicWALL Network Security Advanced Administration (CSSP)
+#####- ITIL® v3 - Foundation Certificate in IT Service Management
 
 ##Cursos e Seminários:
 
