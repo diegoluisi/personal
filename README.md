@@ -1,13 +1,13 @@
 ##Dados Pessoais:
 - Diego Fernando Luisi
-- Brasileiro, Solteiro.
-- Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
-- Data de Nascimento: 12 de fevereiro de 1986
-- Telefone: +55 (11) 94464-0434 
-- LPI ID: LPI000249557 
-- Correio Eletrônico: contato@diegoluisi.eti.br 
-- Skype: diego.luisi
-- Blog: http://www.diegoluisi.eti.br
+  - Brasileiro, Solteiro.
+  - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
+  - Data de Nascimento: 12 de fevereiro de 1986
+  - Telefone: +55 (11) 94464-0434 
+  - LPI ID: LPI000249557 
+  - Correio Eletrônico: contato@diegoluisi.eti.br 
+  - Skype: diego.luisi
+  - Blog: http://www.diegoluisi.eti.br
 
 
 ##Resumo das qualificações: 
@@ -19,14 +19,14 @@
 
 ##Formação Acadêmica:
 - Sistemas de Informação
-- Universidade do Oeste Paulista (Unoeste) 
-- Pres. Prudente – SP
-- Período:  2004 a 2007 (incompleto)
+  - Universidade do Oeste Paulista (Unoeste) 
+  - Pres. Prudente – SP
+  - Período:  2004 a 2007 (incompleto)
 
 ##Idiomas:
 - Inglês
-- Leitura / Escrita – Avançado
-- Conversação – Avançado
+  - Leitura / Escrita – Avançado
+  - Conversação – Avançado
 
 ##Certificações:
 - SonicWALL Network Security Basic Administration (CSSA)
@@ -72,25 +72,25 @@
 - 10/2013  - 07/2014
 - Seguimento: Tecnologia
 - Projetos: 
-- Burger King
-- POC Monitoração de Lojas e PDV.
-- MC Donalds 
-- Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
-- GOL
-- Check-in Mobile
-- Monitoração Check-in
-- Marisa
-- Monitoração de Lojas
-- Drogaria SP
-- Monitoração de Infraestrutura, Banco de Dados e Lojas
-- Staples
-- Monitoração de Infraestrutura
-- Editora Abril
-- Monitoração de Aplicações WEB
-- Integração New Relic
-- Monitoração de Infraestrutura
-- UAB Motors
-- Monitoração de Firewall, Infraestrutura e Lojas.
+  - Burger King
+    - POC Monitoração de Lojas e PDV.
+  - MC Donalds 
+    - Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
+  - GOL
+    - Check-in Mobile
+    - Monitoração Check-in
+  - Marisa
+    - Monitoração de Lojas
+  - Drogaria SP
+    - Monitoração de Infraestrutura, Banco de Dados e Lojas
+  - Staples
+    - Monitoração de Infraestrutura
+  - Editora Abril
+    - Monitoração de Aplicações WEB
+  - Integração New Relic
+    - Monitoração de Infraestrutura
+  - UAB Motors
+    - Monitoração de Firewall, Infraestrutura e Lojas.
 
 ###Grupo Logos – Logistica e Transportes Planejados
 - Cargo: Administrador de Redes
@@ -98,12 +98,12 @@
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
 - Projetos: 
-- Sonicwall – Reestruturação 
-- Zimbra - Upgrade
-- Vmware – Restruturação do Ambiente Virtual
-- Zabbix -  Monitoração de Infraestrutura e sistemas
-- Puppet - Orquestração do ambiente Linux
-- Xeams – Anti Spam
+  - Sonicwall – Reestruturação 
+  - Zimbra - Upgrade
+  - Vmware – Restruturação do Ambiente Virtual
+  - Zabbix -  Monitoração de Infraestrutura e sistemas
+  - Puppet - Orquestração do ambiente Linux
+  - Xeams – Anti Spam
 
 
 
@@ -113,10 +113,10 @@
 - Duração: 04/2010 a 03/2011
 - Seguimento: Órgão Sindical. 
 - Projetos:
-- Hyper-V – Implatação 
-- Active Directory - Implantação 
-- Proxy – Squid/Squid-Guard/Sarg – Implantação 
-- Terminal Services - Implantação
+  - Hyper-V – Implatação 
+  - Active Directory - Implantação 
+  - Proxy – Squid/Squid-Guard/Sarg – Implantação 
+  - Terminal Services - Implantação
 
 ###Grupo Santa Alice
 - Cargo: Administrador de Redes
@@ -124,15 +124,16 @@
 - Duração: 05/2006 a 09/2008
 - Seguimento: Instituição de Ensino médio e fundamental.
 - Projetos: 
-- Active Directory 
-- Proxy - Squid/Squid-Guard/Sarg
+  - Active Directory 
+  - Proxy - Squid/Squid-Guard/Sarg
 
 ###e-Future Informática
 - Cargo: Sócio Proprietário
 - Local: Presidente Prudente – SP
 - Duração: 04/2002 a 09/2008
 - Seguimento: Empresa de Manutenção e Suporte em TI.
-- Funções Exercidas: Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
+- Funções Exercidas: 
+  - Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
 
 ##Conhecimentos específicos:
@@ -152,49 +153,49 @@
 
 ###Linux:
 - AntiSpam:
-- Xeams, Sophos, SpamAssassin
+  - Xeams, Sophos, SpamAssassin
 - Automation/Continuous Integration:
-- Rundeck e Jenkins
+  - Rundeck e Jenkins
 - Back-up 
-- Bacula
+  - Bacula
 - Containers Management
-- Rancher, Docker
+  - Rancher, Docker
 - Version Control System (VCS)
-- Git
+  - Gitlab e Github
 - Data Base:
-- Mysql, PostgreSQL, MariaDB e Oracle.
+  - Mysql, PostgreSQL, MariaDB e Oracle.
 - DNS Server:
-- Bind9
+  - Bind9
 - File Server:
-- SAMBA
+  - SAMBA
 - Service Desk / CMDB:
-- GLPI, Jira, OTRS, Ocs Inventory e Device42.
+  - GLPI, Jira, OTRS, Ocs Inventory e Device42.
 - Mail Server:
-- Zimbra, Postfix, Dovecot.
+  - Zimbra, Postfix, Dovecot.
 - Middlewares:
-- Apache, JBoss, Nginx, Tomcat, Weblogic.
+  - Apache, JBoss, Nginx, Tomcat, Weblogic.
 - Monitoring :
-- Nagios
-- Oracle Enterprise Manager (OEM12)
-- Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
+  - Nagios
+  - Oracle Enterprise Manager (OEM12)
+  - Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
 - Open-Source System Management
-- Spacewalk, SuSE-Manager, Satellite
+  - Spacewalk, SuSE-Manager, Satellite
 - Orchestration:
-- MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, 
+  - MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, 
 - Proxy Server 
-- Squid, Sarg, SquidGuard
+  - Squid, Sarg, SquidGuard
 - Search and Analytics
-- Elasticsearch, Grafana, Kibana, Logstash.
+  - Elasticsearch, Grafana, Kibana, Logstash.
 - Voip Server:
-- Asterix, Elastix
+  - Asterix, Elastix
 - VPN Server:
--  OpenVPN
+  -  OpenVPN
 - XMPP Server 
-- Openfire
+  - Openfire
 - Servidor FTP:
-- VsFTP, ProFTPd
+  - VsFTP, ProFTPd
 - Security/Audit
-- Fail2Ban, Postgrey, Clamav e Syslog-NG
+  - Fail2Ban, Postgrey, Clamav e Syslog-NG
 
 ###VMware:
 - Esx e Esxi (5.0 e 5.5)
