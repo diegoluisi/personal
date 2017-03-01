@@ -58,9 +58,9 @@
 - 08/2014 - Atual
 - Seguimento: Varejo
 - Projetos:
-- NFCE – Implantação infraestrutura de Sistemas.
-- Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
-- Puppet - Orquestração de Infraestrutura e Aplicações.
+* NFCE – Implantação infraestrutura de Sistemas.
+* Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
+* Puppet - Orquestração de Infraestrutura e Aplicações.
 - Centrify/MacOS - Mobilidade.
 - Rundeck - Automação de Jobs e malha batch.
 - Device42 – CMDB. 
