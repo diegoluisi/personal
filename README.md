@@ -58,13 +58,20 @@
 - 08/2014 - Atual
 - Seguimento: Varejo
 - Projetos:
-  - NFCE – Implantação infraestrutura de Sistemas.
-  - Débitos Técnicos – Equalizar as Versões Linux (SLES 11.4) do ambiente.
+  - NFCE 
+    – Implantação infraestrutura de Sistemas.
+  - Upgrade SuSE
+    – Update/Upgrade de todo ambientes SuSE Linux.
   - Puppet - Orquestração de Infraestrutura e Aplicações.
-  - Centrify/MacOS - Mobilidade.
-  - Rundeck - Automação de Jobs e malha batch.
-  - Device42 – CMDB. 
+    - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k)
+  - Mobilidade MacOS.
+    - Gerencia de devices Apple em ambiente corporativo.
+  - Rundeck 
+    - Automação de Jobs e malha batch.
+  - Device42 – CMDB.
+    - Analise de Ferramente para contrução de CMDB
   - SuSE Manager – Implantação SuSE Manager.
+    - Gerenciamento de ambiente Linux
 
 ###e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
@@ -87,7 +94,7 @@
     - Monitoração de Infraestrutura
   - Editora Abril
     - Monitoração de Aplicações WEB
-  - Integração New Relic
+    - Integração New Relic
     - Monitoração de Infraestrutura
   - UAB Motors
     - Monitoração de Firewall, Infraestrutura e Lojas.
@@ -98,12 +105,18 @@
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
 - Projetos: 
-  - Sonicwall – Reestruturação 
-  - Zimbra - Upgrade
-  - Vmware – Restruturação do Ambiente Virtual
-  - Zabbix -  Monitoração de Infraestrutura e sistemas
-  - Puppet - Orquestração do ambiente Linux
-  - Xeams – Anti Spam
+  - Firewall
+    - Planejamento e Implantação de Firewall (Sonicwall) 
+  - Email Corporativo
+    - Zimbra - Upgrade
+  - Restruturação do Ambiente Virtual
+    - Implantação VmWare 
+  - Monitoração de Infraestrutura e sistemas
+    - Implantação de Zabbix
+  - Orquestração de ambiente Linux
+    - Impantação Puppet
+  - Anti Spam
+    - Implantação Xeams Antispam.
 
 
 
@@ -113,9 +126,11 @@
 - Duração: 04/2010 a 03/2011
 - Seguimento: Órgão Sindical. 
 - Projetos:
-  - Hyper-V – Implatação 
+  - Virtualização 
+    - Implantação Hyper-v 
   - Active Directory - Implantação 
-  - Proxy – Squid/Squid-Guard/Sarg – Implantação 
+  - Internet Segura
+    – Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
   - Terminal Services - Implantação
 
 ###Grupo Santa Alice
