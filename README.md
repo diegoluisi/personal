@@ -61,7 +61,6 @@
 - Seguimento: e-commerce
 - Projetos:
 
-
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
 - Barueri – SP
@@ -69,8 +68,11 @@
 - Seguimento: Varejo
 - Projetos:
   - XStore:
+    
     - Troca de 30.000 (PDVs)
-    - Orquestração com Salt
+    
+    - Orquestração com Salt
+    
     - Gerencia de Pacotes com SuSE-Manager
   - NFCE (Nota Fiscal Consumidor Eletronica):
     - Implantação infraestrutura de Sistemas.
