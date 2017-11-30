@@ -86,8 +86,8 @@
     - Analise de Ferramente para construção de CMDB.
   - SuSE Manager – Implantação SuSE Manager:
     - Gerenciamento de ambiente Linux.
-    - Atualização de Patchs.
-    - Gestão de Vulnerabilidades.
+    - Atualização de Patchs.
+    - Gestão de Vulnerabilidades.
 
 ### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
