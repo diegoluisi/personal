@@ -68,19 +68,19 @@
 - Seguimento: Varejo
 - Projetos:
   - XStore:
-    - Troca de 30.000 (PDVs)
-    - Orquestração com Salt
-    - Gerencia de Pacotes com SuSE-Manager
+    - Troca de 30.000 (PDVs).
+    - Orquestração com Salt.
+    - Gerencia de Pacotes com SuSE-Manager.
     
   - NFCE (Nota Fiscal Consumidor Eletronica):
-    - Implantação infraestrutura de Sistemas
-    - Integração com Sistemas Atuais
+    - Implantação infraestrutura de Sistemas.
+    - Integração com Sistemas Atuais.
     
   - Gestão de Patchs e Vulnerabilidades:
     - Update/Upgrade de ambientes Unix/Linux.
     
   - Puppet - Orquestração de Infraestrutura e Aplicações:
-    - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k)
+    - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k).
   
   - Mobilidade MacOS:
     - Gerencia de devices Apple em ambiente corporativo.
@@ -89,12 +89,12 @@
     - Automação de Jobs e malha batch.
   
   - Device42 – CMDB:
-    - Analise de Ferramente para construção de CMDB
+    - Analise de Ferramente para construção de CMDB.
   
   - SuSE Manager – Implantação SuSE Manager:
-    - Gerenciamento de ambiente Linux
-    - Atualização de Patchs
-    - Gestão de Vulnerabilidades
+    - Gerenciamento de ambiente Linux.
+    - Atualização de Patchs.
+    - Gestão de Vulnerabilidades.
 
 ### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
