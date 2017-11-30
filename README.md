@@ -74,7 +74,7 @@
   - NFCE (Nota Fiscal Consumidor Eletronica):
     - Implantação infraestrutura de Sistemas.
     - Integração com Sistemas Atuais.  
-  - Gestão de Patchs e Vulnerabilidades:
+  - Gestão de Patchs e Vulnerabilidades:
     - Update/Upgrade de ambientes Unix/Linux.
   - Puppet - Orquestração de Infraestrutura e Aplicações:
     - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k).
