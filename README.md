@@ -68,25 +68,29 @@
 - Seguimento: Varejo
 - Projetos:
   - XStore:
-    
     - Troca de 30.000 (PDVs)
-    
     - Orquestração com Salt
-    
     - Gerencia de Pacotes com SuSE-Manager
+    
   - NFCE (Nota Fiscal Consumidor Eletronica):
-    - Implantação infraestrutura de Sistemas.
+    - Implantação infraestrutura de Sistemas
     - Integração com Sistemas Atuais
+    
   - Gestão de Patchs e Vulnerabilidades:
     - Update/Upgrade de ambientes Unix/Linux.
+    
   - Puppet - Orquestração de Infraestrutura e Aplicações:
     - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k)
+  
   - Mobilidade MacOS:
     - Gerencia de devices Apple em ambiente corporativo.
+  
   - Rundeck: 
     - Automação de Jobs e malha batch.
+  
   - Device42 – CMDB:
     - Analise de Ferramente para construção de CMDB
+  
   - SuSE Manager – Implantação SuSE Manager:
     - Gerenciamento de ambiente Linux
     - Atualização de Patchs
@@ -150,10 +154,13 @@
 - Projetos:
   - Virtualização 
     - Implantação Hyper-v 
+    
   - Autenticação Centralizada
     - Active Directory - Implantação 
+    
   - Internet Segura
     - Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
+    
   - Terminal Services - Implantação
 
 ### Grupo Santa Alice
