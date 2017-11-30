@@ -65,23 +65,30 @@
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
 - Barueri – SP
-- 08/2014 - Atual
+- 08/2014 - 10/2017
 - Seguimento: Varejo
 - Projetos:
-  - NFCE 
-    – Implantação infraestrutura de Sistemas.
-  - Upgrade SuSE
-    – Update/Upgrade de todo ambientes SuSE Linux.
-  - Puppet - Orquestração de Infraestrutura e Aplicações.
+  - XStore:
+    - Troca de 30.000 (PDVs)
+    - Orquestração com Salt
+    - Gerencia de Pacotes com SuSE-Manager
+  - NFCE (Nota Fiscal Consumidor Eletronica):
+    - Implantação infraestrutura de Sistemas.
+    - Integração com Sistemas Atuais
+  - Gestão de Patchs e Vulnerabilidades:
+    - Update/Upgrade de ambientes Unix/Linux.
+  - Puppet - Orquestração de Infraestrutura e Aplicações:
     - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k)
-  - Mobilidade MacOS.
+  - Mobilidade MacOS:
     - Gerencia de devices Apple em ambiente corporativo.
-  - Rundeck 
+  - Rundeck: 
     - Automação de Jobs e malha batch.
-  - Device42 – CMDB.
-    - Analise de Ferramente para contrução de CMDB
-  - SuSE Manager – Implantação SuSE Manager.
+  - Device42 – CMDB:
+    - Analise de Ferramente para construção de CMDB
+  - SuSE Manager – Implantação SuSE Manager:
     - Gerenciamento de ambiente Linux
+    - Atualização de Patchs
+    - Gestão de Vulnerabilidades
 
 ### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
@@ -89,24 +96,24 @@
 - 10/2013  - 07/2014
 - Seguimento: Tecnologia
 - Projetos: 
-  - Burger King
+  - Burger King:
     - POC Monitoração de Data Center, Lojas e PDV.
-  - MC Donalds 
+  - MC Donalds (Arcos Dourados): 
     - Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
-  - GOL
+  - GOL:
     - Check-in Mobile
     - Monitoração Check-in
-  - Marisa
+  - Marisa:
     - Monitoração de Lojas, Telecom e Infraestrutura
-  - Drogaria SP
+  - Drogaria SP:
     - Monitoração de Infraestrutura, Banco de Dados e Lojas
-  - Staples
+  - Staples:
     - Monitoração de Infraestrutura
-  - Editora Abril
+  - Editora Abril:
     - Monitoração de Aplicações WEB
     - Integração New Relic
     - Monitoração de Infraestrutura
-  - UAB Motors
+  - UAB Motors:
     - Monitoração de Firewall, Infraestrutura e Lojas.
 
 ### Grupo Logos – Logistica e Transportes Planejados
@@ -115,17 +122,22 @@
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
 - Projetos: 
-  - Firewall
+  - Firewall:
     - Arquitetura e Implantação de Firewall (Sonicwall) 
-  - Email Corporativo
+  - Email Corporativo:
     - Zimbra - Upgrade
-  - Restruturação do Ambiente Virtual
-    - Implantação VmWare 
-  - Monitoração de Infraestrutura e sistemas
+  - Virtualização de Data Center:
+    - Instalaço e configuração Blades IBM e Storage
+    - Implantação VmWare
+    - Configuração ESX
+  - Monitoração de Infraestrutura e sistemas
     - Implantação de Zabbix
-  - Orquestração de ambiente Linux
+    - Monitoração de Infraestrutura
+    - Monitoração de Filiais
+  - Orquestração de ambiente Linux
     - Impantação Puppet
-  - Anti Spam
+    - Automação de configuraçes
+  - Anti Spam
     - Implantação Xeams Antispam.
 
 ### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
@@ -136,9 +148,10 @@
 - Projetos:
   - Virtualização 
     - Implantação Hyper-v 
-  - Active Directory - Implantação 
+  - Autenticação Centralizada
+    - Active Directory - Implantação 
   - Internet Segura
-    – Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
+    - Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
   - Terminal Services - Implantação
 
 ### Grupo Santa Alice
@@ -199,11 +212,11 @@
   - Nagios
   - Oracle Enterprise Manager (OEM12)
   - Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
-- Open-Source System Management
+- Open-Source System Management:
   - Spacewalk, SuSE-Manager, Satellite
 - Orchestration:
-  - MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, 
-- Proxy Server 
+  - MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, Ansible e Chef
+- Proxy Server: 
   - Squid, Sarg, SquidGuard
 - Search and Analytics
   - Elasticsearch, Grafana, Kibana, Logstash.
