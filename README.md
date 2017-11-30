@@ -1,4 +1,4 @@
-##Dados Pessoais:
+## Dados Pessoais:
 - Diego Fernando Luisi
   - Brasileiro, Solteiro.
   - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
@@ -10,49 +10,59 @@
   - Blog: http://www.diegoluisi.eti.br
 
 
-##Resumo das qualificações: 
+## Resumo das qualificações: 
 - Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
 
 
-##Expectativas Profissionais:
+## Expectativas Profissionais:
 - Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
 
-##Formação Acadêmica:
+## Formação Acadêmica:
 - Sistemas de Informação
   - Universidade do Oeste Paulista (Unoeste) 
   - Pres. Prudente – SP
   - Período:  2004 a 2007 (incompleto)
 
-##Idiomas:
+## Idiomas:
 - Inglês
   - Leitura / Escrita – Avançado
   - Conversação – Avançado
 
-##Certificações:
+## Certificações:
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
-##Cursos e Seminários:
-
-- SuSE Manager 3 Administration (24 Horas)
-- Citrix Netscaler Essencial CNS-220 – (24 Horas)
+## Cursos e Seminários:
+- Infraestrutura ágil com práticas Devops
+- [SUSE SOC201] OpenStack Administration with SUSE (40 Horas)
+- [AIX AN30] Power Systems for AIX PowerVM (40 Horas)
+- [SMGR210] SuSE Manager 3 Administration (24 Horas)
+- CNS-220] Citrix Netscaler Essencial CNS-220 – (24 Horas)
 - Puppet Fundamentals – (24 Horas)
 - Puppet Practitioner – (24 Horas)
 - Puppet Introduction – (8 Horas)
-- AIX AN140BR Jump Start – (40 Horas)
-- SuSE Linux Enterprise server 12 (40 Horas)
+- [AIX AN140BR]AIX Jump Start – (40 Horas)
+- [SUSE3126]SuSE Linux Enterprise server 12 (40 Horas)
 - SonicWALL – Network Security Basic Administrator (40 horas)
 - VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
-- Linux – Curso preparatorio LX0-101/102 (8 semanas)
+- [LX0-101/102] Linux – Curso preparatorio LX0-101/102 (8 semanas)
 - ITIL - V3 Foundation – (18 horas)
 - Zimbra – Suite de Colaboração (4 horas)
 - Zabbix – Entreprise Open Source Monitoring Solution (4 horas)
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
-##Experiências Profissional:
-###C&A Modas do Brasil
+## Experiências Profissional:
+### Dafiti Group (GFG Group)
+- Cargo: Especialista de Infraestrutura Linux/Unix Sr.
+- São Paulo – SP
+- 10/2017 - Atual
+- Seguimento: e-commerce
+- Projetos:
+
+
+### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
 - Barueri – SP
 - 08/2014 - Atual
@@ -73,21 +83,21 @@
   - SuSE Manager – Implantação SuSE Manager.
     - Gerenciamento de ambiente Linux
 
-###e-Deploy Integrated Technology and Solutions
+### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
 - Barueri – SP
 - 10/2013  - 07/2014
 - Seguimento: Tecnologia
 - Projetos: 
   - Burger King
-    - POC Monitoração de Lojas e PDV.
+    - POC Monitoração de Data Center, Lojas e PDV.
   - MC Donalds 
     - Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
   - GOL
     - Check-in Mobile
     - Monitoração Check-in
   - Marisa
-    - Monitoração de Lojas
+    - Monitoração de Lojas, Telecom e Infraestrutura
   - Drogaria SP
     - Monitoração de Infraestrutura, Banco de Dados e Lojas
   - Staples
@@ -99,14 +109,14 @@
   - UAB Motors
     - Monitoração de Firewall, Infraestrutura e Lojas.
 
-###Grupo Logos – Logistica e Transportes Planejados
+### Grupo Logos – Logistica e Transportes Planejados
 - Cargo: Administrador de Redes
 - Barueri – SP
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
 - Projetos: 
   - Firewall
-    - Planejamento e Implantação de Firewall (Sonicwall) 
+    - Arquitetura e Implantação de Firewall (Sonicwall) 
   - Email Corporativo
     - Zimbra - Upgrade
   - Restruturação do Ambiente Virtual
@@ -118,9 +128,7 @@
   - Anti Spam
     - Implantação Xeams Antispam.
 
-
-
-###FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
+### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
 - Cargo: Administrador de Redes
 - Local: Agudos – SP
 - Duração: 04/2010 a 03/2011
@@ -133,7 +141,7 @@
     – Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
   - Terminal Services - Implantação
 
-###Grupo Santa Alice
+### Grupo Santa Alice
 - Cargo: Administrador de Redes
 - Local: Presidente Prudente – SP
 - Duração: 05/2006 a 09/2008
@@ -142,7 +150,7 @@
   - Active Directory 
   - Proxy - Squid/Squid-Guard/Sarg
 
-###e-Future Informática
+### e-Future Informática
 - Cargo: Sócio Proprietário
 - Local: Presidente Prudente – SP
 - Duração: 04/2002 a 09/2008
@@ -151,22 +159,20 @@
   - Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
 
-##Conhecimentos específicos:
-
-###Operation System:
+## Conhecimentos específicos:
+### Operation System:
 - Linux (Red Hat, Debian, SuSE)
 - Unix (HP-UX, IBM-AIX)
 - Windows Server (2000, 2003, 2008, 2012)
 - ESXi (4.0, 5.0, 6.0)
 
-
-###Microsoft:
+### Microsoft:
 - Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
 - Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
 - Servidor Banco de Dados (MS SQL, Firebird)
 
 
-###Linux:
+### Linux:
 - AntiSpam:
   - Xeams, Sophos, SpamAssassin
 - Automation/Continuous Integration:
@@ -212,22 +218,22 @@
 - Security/Audit
   - Fail2Ban, Postgrey, Clamav e Syslog-NG
 
-###VMware:
+### VMware:
 - Esx e Esxi (5.0 e 5.5)
 - Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
 
-###Unified Threat Management (UTM ):
+### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
 - Cisco 
 - Juniper
 - Netscaler
 
-###Endpoint Protection Platform (EPP):
+### Endpoint Protection Platform (EPP):
 - ESET Endpoint Security
 - Kaspersky
 - Trend Micro
 
-###Data Storage
+### Data Storage
 - HP 3Par
 - IBM 
 
