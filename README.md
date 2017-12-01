@@ -11,15 +11,20 @@
 
 
 ## Resumo das qualificações: 
-- Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando na administração e sustentação de servidores e sistemas Linux e Unix, sou especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
+- Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando com projetos,
+administração e sustentação de servidores e sistemas Linux e Unix, especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
 
 
 ## Expectativas Profissionais:
-- Prover soluções de infraestrutura de maneira ágil, para empresas que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que implementem valores e as tornem mais competitivas
+- Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
 
 ## Formação Acadêmica:
-- Sistemas de Informação
-  - Universidade do Oeste Paulista (Unoeste) 
+- Universidade Nove de Julho (Uninove)
+  - Tecnologia em Redes de Computadores
+  - São Paulo–SP
+  - Período: 2017 – (Cursando)
+- Universidade do Oeste Paulista (Unoeste) 
+  - Sistemas de Informação
   - Pres. Prudente – SP
   - Período:  2004 a 2007 (incompleto)
 
@@ -38,7 +43,7 @@
 - [SUSE SOC201] OpenStack Administration with SUSE (40 Horas)
 - [AIX AN30] Power Systems for AIX PowerVM (40 Horas)
 - [SMGR210] SuSE Manager 3 Administration (24 Horas)
-- CNS-220] Citrix Netscaler Essencial CNS-220 – (24 Horas)
+- [CNS-220] Citrix Netscaler Essencial CNS-220 – (24 Horas)
 - Puppet Fundamentals – (24 Horas)
 - Puppet Practitioner – (24 Horas)
 - Puppet Introduction – (8 Horas)
