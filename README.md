@@ -152,14 +152,12 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Projetos:
   - Virtualização 
     - Implantação Hyper-v 
-    
   - Autenticação Centralizada
     - Active Directory - Implantação 
-    
   - Internet Segura
     - Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
-    
-  - Terminal Services - Implantação
+  - Terminal Services 
+    - Implantação
 
 ### Grupo Santa Alice
 - Cargo: Administrador de Redes
