@@ -1,6 +1,6 @@
 ## Dados Pessoais:
 - Diego Fernando Luisi
-  - Brasileiro, Solteiro.
+  - Brasileiro, Solteiro
   - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
   - Data de Nascimento: 12 de fevereiro de 1986
   - Telefone: +55 (11) 94464-0434 
