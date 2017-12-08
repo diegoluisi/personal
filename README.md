@@ -39,7 +39,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
-- Infraestrutura ágil com práticas Devops
+- [525]Infraestrutura ágil com práticas Devops (Ansible, Puppet, Docker, Git, Jenkins)
 - [SUSE SOC201] OpenStack Administration with SUSE (40 Horas)
 - [AIX AN30] Power Systems for AIX PowerVM (40 Horas)
 - [SMGR210] SuSE Manager 3 Administration (24 Horas)
@@ -166,7 +166,8 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Seguimento: Instituição de Ensino médio e fundamental.
 - Projetos: 
   - Active Directory 
-  - Proxy - Squid/Squid-Guard/Sarg
+  - Proxy 
+  - Squid/Squid-Guard/Sarg
 
 ### e-Future Informática
 - Cargo: Sócio Proprietário
