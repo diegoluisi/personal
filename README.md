@@ -142,6 +142,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Tecnologias: Active Directory.
   - Internet Segura:
     - Tecnologias: Squid, Squid-Guard e Sarg.
+  - Cabeamento Estruturado.
 
 ### Grupo Santa Alice
 - Cargo: Administrador de Redes
