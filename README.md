@@ -9,11 +9,9 @@
   - Skype: diego.luisi
   - Blog: http://www.diegoluisi.eti.br
 
-
-## Resumo das qualificações: 
+## Resumo das qualificações:
 - Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando com projetos,
 administração e sustentação de servidores e sistemas Linux e Unix, especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
-
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
@@ -189,7 +187,6 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
 - Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
 - Servidor Banco de Dados (MS SQL, Firebird)
-
 
 ### Linux:
 - AntiSpam:
