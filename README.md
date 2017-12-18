@@ -80,7 +80,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
   - Gestão de Patchs e Vulnerabilidades:
     - Tecnologias: SuSE Linux, SuSE-Manager, Puppet, MCollective.
   - Infraestrutura Ágil:
-    - Tecnologias: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
+    - Tecnologias: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
   - Mobilidade MacOS:
     - Tecnologias: Puppet, MacOS Server, Centrify.
   - Automação e Agendamento de Jobs: 
