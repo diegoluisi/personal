@@ -8,6 +8,7 @@
   - Correio Eletrônico: contato@diegoluisi.eti.br 
   - Skype: diego.luisi
   - Blog: http://www.diegoluisi.eti.br
+  - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
 - Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando com projetos,
