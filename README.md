@@ -123,11 +123,11 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Tecnologias: Sonicwall. 
   - Email Corporativo:
     - Tecnologias: Zimbra, Postgrey, Fail2Ban, Xeams.
-  - Virtualização de Data Center:
+  - Virtualização de Data Center:
     - Tecnologias: VMware.
-  - Monitoração de Infraestrutura e sistemas
+  - Monitoração de Infraestrutura e sistemas
     - Tecnologias: Zabbix, Grafana.
-  - Orquestração de ambiente Linux
+  - Orquestração de ambiente Linux
     - Tecnologias: Puppet, Puppet-Board, MCollective.
 
 ### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
