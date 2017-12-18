@@ -75,7 +75,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Projetos:
   - XStore (Troca de Sistema de PDV para solução Oracle X-Store):
     - Tecnologias: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
-  - NFCE (Implantação NFCE - Nota Fiscal Consumidor Eletronica):
+  - NFCE (Implantação NFCE - Nota Fiscal Consumidor Eletronica):
     - Tecnologias: SuSE Linux, JAVA, Oracle. 
   - Gestão de Patchs e Vulnerabilidades:
     - Tecnologias: SuSE Linux, SuSE-Manager, Puppet, MCollective.
