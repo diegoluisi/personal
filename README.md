@@ -64,6 +64,8 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - 10/2017 - Atual
 - Seguimento: e-commerce
 - Projetos:
+  - Zabbix
+  - ProxMox
 
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
@@ -71,27 +73,22 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - 08/2014 - 10/2017
 - Seguimento: Varejo
 - Projetos:
-  - XStore:
-    - Troca de 30.000 (PDVs).
-    - Orquestração com Salt.
-    - Gerencia de Pacotes com SuSE-Manager.
-  - NFCE (Nota Fiscal Consumidor Eletronica):
-    - Implantação infraestrutura de Sistemas.
-    - Integração com Sistemas Atuais.  
+  - XStore (Troca de Sistema de PDV para solução Oracle X-Store):
+    - Tecnologias: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
+  - NFCE (Implantação NFCE - Nota Fiscal Consumidor Eletronica):
+    - Tecnologias: SuSE Linux, JAVA, Oracle. 
   - Gestão de Patchs e Vulnerabilidades:
-    - Update/Upgrade de ambientes Unix/Linux.
-  - Puppet - Orquestração de Infraestrutura e Aplicações:
-    - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k).
+    - Tecnologias: SuSE Linux, SuSE-Manager, Puppet, MCollective.
+  - Infraestrutura Ágil:
+    - Tecnologias: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
   - Mobilidade MacOS:
-    - Gerencia de devices Apple em ambiente corporativo.
-  - Rundeck: 
-    - Automação de Jobs e malha batch.
-  - Device42 – CMDB:
-    - Analise de Ferramente para construção de CMDB.
-  - SuSE Manager – Implantação SuSE Manager:
-    - Gerenciamento de ambiente Linux.
-    - Atualização de Patchs.
-    - Gestão de Vulnerabilidades.
+    - Tecnologias: Puppet, MacOS Server, Centrify.
+  - Automação e Agendamento de Jobs: 
+    - Tecnologias: Rundeck.
+  - Configuration Management Database (CMDB):
+    - Tecnologias: Device42.
+  - Gerenciamento de Ambientes Linux:
+    - Tecnologias: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
@@ -100,24 +97,21 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Seguimento: Tecnologia
 - Projetos: 
   - Burger King:
-    - POC Monitoração de Data Center, Lojas e PDV.
+    - Itens Monitorados: Infraestrutura, Links, Lojas e PDV.
   - MC Donalds (Arcos Dourados): 
-    - Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
+    - Itens Monitorados: Infraestrutura, Banco de Dados, Lojas e PDVs.
   - GOL:
-    - Check-in Mobile
-    - Monitoração Check-in
+    - Itens Monitorados: Check-in e Check-in Mobile.
   - Marisa:
-    - Monitoração de Lojas, Telecom e Infraestrutura
+    - Itens Monitorados: Lojas, Telecom e Infraestrutura.
   - Drogaria SP:
-    - Monitoração de Infraestrutura, Banco de Dados e Lojas
+    - Itens Monitorados: Infraestrutura, Banco de Dados, Links e Lojas.
   - Staples:
-    - Monitoração de Infraestrutura
-  - Editora Abril:
-    - Monitoração de Aplicações WEB
-    - Integração New Relic
-    - Monitoração de Infraestrutura
+    - Itens Monitorados: Infraestrutura, Aplicações e Banco de Dados.
+  - Editora Abril:
+    - Itens Monitorados: Infraestuturam Aplicações e Aplicações WEB
   - UAB Motors:
-    - Monitoração de Firewall, Infraestrutura e Lojas.
+    - Itens Monitorados: Firewall, Infraestrutura, Aplicaçes e Lojas.
 
 ### Grupo Logos – Logistica e Transportes Planejados
 - Cargo: Administrador de Redes
@@ -126,22 +120,15 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Seguimento: Logística e Transportes
 - Projetos: 
   - Firewall:
-    - Arquitetura e Implantação de Firewall (Sonicwall) 
+    - Tecnologias: Sonicwall. 
   - Email Corporativo:
-    - Zimbra - Upgrade
+    - Tecnologias: Zimbra, Postgrey, Fail2Ban, Xeams.
   - Virtualização de Data Center:
-    - Instalaço e configuração Blades IBM e Storage
-    - Implantação VmWare
-    - Configuração ESX
+    - Tecnologias: VMware.
   - Monitoração de Infraestrutura e sistemas
-    - Implantação de Zabbix
-    - Monitoração de Infraestrutura
-    - Monitoração de Filiais
+    - Tecnologias: Zabbix, Grafana.
   - Orquestração de ambiente Linux
-    - Impantação Puppet
-    - Automação de configuraçes
-  - Anti Spam
-    - Implantação Xeams Antispam.
+    - Tecnologias: Puppet, Puppet-Board, MCollective.
 
 ### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
 - Cargo: Administrador de Redes
@@ -149,14 +136,12 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Duração: 04/2010 a 03/2011
 - Seguimento: Órgão Sindical. 
 - Projetos:
-  - Virtualização 
-    - Implantação Hyper-v 
-  - Autenticação Centralizada
-    - Active Directory - Implantação 
-  - Internet Segura
-    - Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
-  - Terminal Services 
-    - Implantação
+  - Virtualização:
+    - Tecnologias: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
+  - Autenticação Centralizada:
+    - Tecnologias: Active Directory.
+  - Internet Segura:
+    - Tecnologias: Squid, Squid-Guard e Sarg.
 
 ### Grupo Santa Alice
 - Cargo: Administrador de Redes
