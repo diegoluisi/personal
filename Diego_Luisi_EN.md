@@ -8,6 +8,7 @@
   - E-mail: contato@diegoluisi.eti.br 
   - Skype: diego.luisi
   - Blog: http://www.diegoluisi.eti.br
+  - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Summary of qualifications:
 - I have more than 10 years of experience in IT infrastructure, working with projects,
