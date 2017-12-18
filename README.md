@@ -138,7 +138,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Projetos:
   - Virtualização:
     - Tecnologias: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
-  - Autenticação Centralizada:
+  - Autenticação Centralizada:
     - Tecnologias: Active Directory.
   - Internet Segura:
     - Tecnologias: Squid, Squid-Guard e Sarg.
