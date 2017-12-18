@@ -79,15 +79,15 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Tecnologias: SuSE Linux, JAVA, Oracle. 
   - Gestão de Patchs e Vulnerabilidades:
     - Tecnologias: SuSE Linux, SuSE-Manager, Puppet, MCollective.
-  - Infraestrutura Ágil:
+  - Infraestrutura Ágil:
     - Tecnologias: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
   - Mobilidade MacOS:
     - Tecnologias: Puppet, MacOS Server, Centrify.
-  - Automação e Agendamento de Jobs: 
+  - Automação e Agendamento de Jobs: 
     - Tecnologias: Rundeck.
   - Configuration Management Database (CMDB):
     - Tecnologias: Device42.
-  - Gerenciamento de Ambientes Linux:
+  - Gerenciamento de Ambientes Linux:
     - Tecnologias: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
