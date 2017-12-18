@@ -108,8 +108,8 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Itens Monitorados: Infraestrutura, Banco de Dados, Links e Lojas.
   - Staples:
     - Itens Monitorados: Infraestrutura, Aplicações e Banco de Dados.
-  - Editora Abril:
-    - Itens Monitorados: Infraestuturam Aplicações e Aplicações WEB
+  - Editora Abril:
+    - Itens Monitorados: Infraestuturam Aplicações e Aplicações WEB
   - UAB Motors:
     - Itens Monitorados: Firewall, Infraestrutura, Aplicaçes e Lojas.
 
