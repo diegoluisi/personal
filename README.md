@@ -178,34 +178,32 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 ### Linux:
 - AntiSpam:
   - Xeams, Sophos, SpamAssassin
-- Automation/Continuous Integration:
-  - Rundeck e Jenkins
-- Back-up 
+- Back-up:
   - Bacula
-- Containers Management
-  - Rancher, Docker
-- Version Control System (VCS)
-  - Gitlab e Github
+- CI/CD:
+  - Rundeck e Jenkins
+- Configuration Management:
+  - Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Ansible, Chef e Salt
+- Containers:
+  - Docker, Rancher e Portainer
+- Version Control System (VCS):
+  - BitBucket, Gitlab e Github
 - Data Base:
   - Mysql, PostgreSQL, MariaDB e Oracle.
 - DNS Server:
   - Bind9
 - File Server:
   - SAMBA
-- Service Desk / CMDB:
-  - GLPI, Jira, OTRS, Ocs Inventory e Device42.
+- ITSM / CMDB:
+  - Confluence, Device42, GLPI, Jira, Ocs Inventory e OTRS.
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
 - Middlewares:
   - Apache, JBoss, Nginx, Tomcat, Weblogic.
 - Monitoring :
-  - Nagios
-  - Oracle Enterprise Manager (OEM12)
-  - Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
+  - Nagios, Oracle Enterprise Manager (OEM12) e Zabbix
 - Open-Source System Management:
   - Spacewalk, SuSE-Manager, Satellite
-- Orchestration:
-  - MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, Ansible e Chef
 - Proxy Server: 
   - Squid, Sarg, SquidGuard
 - Search and Analytics
