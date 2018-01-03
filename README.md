@@ -38,7 +38,8 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
-- [525]Infraestrutura ágil com práticas Devops (Ansible, AWS, Docker, GitLab, Jenkins, Puppet e Rundeck)
+- [4435] Administração JBoss AS 7 com Alta Performance e Produtividade
+- [525] Infraestrutura ágil com práticas Devops (Ansible, AWS, Docker, GitLab, Jenkins, Puppet e Rundeck)
 - [SUSE SOC201] OpenStack Administration with SUSE (40 Horas)
 - [AIX AN30] Power Systems for AIX PowerVM (40 Horas)
 - [SMGR210] SuSE Manager 3 Administration (24 Horas)
