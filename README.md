@@ -172,7 +172,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
   - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
-### Linux:
+### Open Source Tools:
 - AntiSpam:
   - Xeams, Sophos, SpamAssassin.
 - Back-up:
@@ -239,4 +239,4 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 
 ### Data Storage
 - HP 3Par
-- IBM 
+- IBM V7000
