@@ -94,7 +94,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 ### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
 - Barueri – SP
-- 10/2013  - 07/2014
+- 08/2013  - 07/2014
 - Seguimento: Tecnologia
 - Projetos: 
   - Burger King:
