@@ -182,7 +182,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Configuration Management:
   - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt e Salt.
 - Containers:
-  - Docker, Rancher e Portainer
+  - Docker, Rancher e Portainer.
 - Version Control System (VCS):
   - BitBucket, Gitlab e Github.
 - Data Base:
@@ -204,26 +204,25 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Open-Source System Management:
   - Spacewalk, SuSE-Manager, Satellite.
 - Proxy Server: 
-  - Squid, Sarg, SquidGuard
-- Search and Analytics
+  - Squid, Sarg, SquidGuard.
+- Search and Analytics:
   - Elasticsearch, Grafana, Kibana.
 - Voip Server:
   - Asterix, Elastix
 - VPN Server:
-  -  OpenVPN
-- XMPP Server 
-  - Openfire
+  -  OpenVPN.
+- XMPP Server:
+  - Openfire.
 - Servidor FTP:
-  - VsFTP, ProFTPd
-- Security/Audit
+  - VsFTP, ProFTPd.
+- Security/Audit:
   - Fail2Ban, Postgrey, Clamav.
 
 ### Cloud:
-- OpenStack
+- OpenStack.
 - Amazon Web Services (AWS).
 
 ### VMware:
-- Esx e Esxi (5.0 e 5.5)
 - Disaster Recovery, Vcenter, vSphere, ESXI, DRS, HA, FLT.
 
 ### Unified Threat Management (UTM ):
