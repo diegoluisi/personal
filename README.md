@@ -173,28 +173,26 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 
 ### Microsoft:
 - Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
-- Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
-- Servidor Banco de Dados (MS SQL, Firebird)
 
 ### Linux:
 - AntiSpam:
-  - Xeams, Sophos, SpamAssassin
+  - Xeams, Sophos, SpamAssassin.
 - Back-up:
-  - Bacula
+  - Bacula.
 - CI/CD:
-  - Rundeck e Jenkins
+  - Rundeck e Jenkins.
 - Configuration Management:
-  - Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Ansible, Chef e Salt
+  - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt e Salt.
 - Containers:
   - Docker, Rancher e Portainer
 - Version Control System (VCS):
-  - BitBucket, Gitlab e Github
+  - BitBucket, Gitlab e Github.
 - Data Base:
   - Mysql, PostgreSQL, MariaDB e Oracle.
 - DNS Server:
-  - Bind9
+  - Bind9.
 - File Server:
-  - SAMBA
+  - SAMBA.
 - ITSM / CMDB:
   - Confluence, Device42, GLPI, Jira, Ocs Inventory e OTRS.
 - Mail Server:
@@ -202,9 +200,9 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Middlewares:
   - Apache, JBoss, Nginx, Tomcat, Weblogic.
 - Monitoring :
-  - Nagios, Oracle Enterprise Manager (OEM12) e Zabbix
+  - Nagios, Oracle Enterprise Manager (OEM12) e Zabbix.
 - Open-Source System Management:
-  - Spacewalk, SuSE-Manager, Satellite
+  - Spacewalk, SuSE-Manager, Satellite.
 - Proxy Server: 
   - Squid, Sarg, SquidGuard
 - Search and Analytics
@@ -219,6 +217,10 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
   - VsFTP, ProFTPd
 - Security/Audit
   - Fail2Ban, Postgrey, Clamav e Syslog-NG
+
+### Cloud:
+- OpenStack
+- Amazon Web Services (AWS).
 
 ### VMware:
 - Esx e Esxi (5.0 e 5.5)
@@ -238,4 +240,3 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 ### Data Storage
 - HP 3Par
 - IBM 
-
