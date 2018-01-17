@@ -166,13 +166,11 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 
 ## Conhecimentos específicos:
 ### Operation System:
-- Linux (Red Hat, Debian, SuSE)
-- Unix (HP-UX, IBM-AIX)
-- Windows Server (2000, 2003, 2008, 2012)
-- ESXi (4.0, 5.0, 6.0)
+- Linux/Unix (Red Hat, SuSE, Debian, HP-UX e IBM-AIX)
 
 ### Microsoft:
-- Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
+- Windows Server/Hyper-V (2000, 2003, 2008, 2012)
+  - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
 ### Linux:
 - AntiSpam:
@@ -195,6 +193,8 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
   - SAMBA.
 - ITSM / CMDB:
   - Confluence, Device42, GLPI, Jira, Ocs Inventory e OTRS.
+- Log Monitoring and Management:
+  - Graylog, Logstash, Syslog-NG. 
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
 - Middlewares:
@@ -206,7 +206,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Proxy Server: 
   - Squid, Sarg, SquidGuard
 - Search and Analytics
-  - Elasticsearch, Grafana, Kibana, Logstash.
+  - Elasticsearch, Grafana, Kibana.
 - Voip Server:
   - Asterix, Elastix
 - VPN Server:
@@ -216,7 +216,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Servidor FTP:
   - VsFTP, ProFTPd
 - Security/Audit
-  - Fail2Ban, Postgrey, Clamav e Syslog-NG
+  - Fail2Ban, Postgrey, Clamav.
 
 ### Cloud:
 - OpenStack
@@ -224,7 +224,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 
 ### VMware:
 - Esx e Esxi (5.0 e 5.5)
-- Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
+- Disaster Recovery, Vcenter, vSphere, ESXI, DRS, HA, FLT.
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
