@@ -11,8 +11,8 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando com projetos,
-administração e sustentação de servidores e sistemas Linux e Unix, especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
+- Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando em projetos,
+administração e sustentação de servidores e sistemas Linux e Unix, especialista em monitoração (Zabbix) e gestão de configuração e automação com (Puppet).
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
