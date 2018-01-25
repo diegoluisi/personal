@@ -208,8 +208,6 @@
   - Elasticsearch, Grafana, Kibana.
 - Voip Server:
   - Asterix, Elastix
-- VPN Server:
-  -  OpenVPN.
 
 ### Cloud:
 - OpenStack.
