@@ -11,7 +11,7 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 10 anos de experiência em infraestrutura de TI, com foco em ferramentas Open Source tenho atuando em diversos projetos, administração e sustentação de ambientes Linux e Unix, especialista em gestão de configuração e infraestrutura como código com Puppet e monitoração com Zabbix. Trabalho com metodologias ágeis e disseminando a cultura DevOps.
+- Possuo mais de 10 anos de experiência em infraestrutura de TI, com foco em ferramentas Open Source tenho atuando em diversos projetos, administração e sustentação de ambientes Linux e Unix, especialista em gestão de configuração e infraestrutura como código com Puppet e monitoração com Zabbix.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
@@ -238,3 +238,9 @@
 ### Data Storage
 - HP 3Par
 - IBM V7000
+
+### Metodologias/Frameworks
+- ITIL
+- Ágil
+- Scrum
+- Kanban
