@@ -3,9 +3,9 @@
   - Brasileiro, Solteiro
   - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
   - Data de Nascimento: 12 de fevereiro de 1986
-  - Telefone: +55 (11) 94464-0434 
-  - LPI ID: LPI000249557 
-  - Correio Eletrônico: contato@diegoluisi.eti.br 
+  - Telefone: +55 (11) 94464-0434
+  - LPI ID: LPI000249557
+  - Correio Eletrônico: contato@diegoluisi.eti.br
   - Skype: diego.luisi
   - Blog: http://www.diegoluisi.eti.br
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
@@ -21,7 +21,7 @@
   - Tecnologia em Redes de Computadores
   - São Paulo–SP
   - Período: 2017 – (Cursando)
-- Universidade do Oeste Paulista (Unoeste) 
+- Universidade do Oeste Paulista (Unoeste)
   - Sistemas de Informação
   - Pres. Prudente – SP
   - Período:  2004 a 2007 (incompleto)
@@ -49,7 +49,7 @@
 - [AIX AN140BR]AIX Jump Start – (40 Horas)
 - [SUSE3126]SuSE Linux Enterprise server 12 (40 Horas)
 - SonicWALL – Network Security Basic Administrator (40 horas)
-- VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
+- VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas)
 - [LX0-101/102] Linux – Curso preparatorio LX0-101/102 (8 semanas)
 - ITIL - V3 Foundation – (18 horas)
 - Zimbra – Suite de Colaboração (4 horas)
@@ -76,14 +76,14 @@
   - XStore (Troca de Sistema de PDV para solução Oracle X-Store):
     - Tecnologias: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
   - NFCE (Implantação NFCE - Nota Fiscal Consumidor Eletronica):
-    - Tecnologias: SuSE Linux, JAVA, Oracle. 
+    - Tecnologias: SuSE Linux, JAVA, Oracle.
   - Gestão de Patchs e Vulnerabilidades:
     - Tecnologias: SuSE Linux, SuSE-Manager, Puppet, MCollective.
   - Infraestrutura Ágil:
     - Tecnologias: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
   - Mobilidade MacOS:
     - Tecnologias: Puppet, MacOS Server, Centrify.
-  - Automação e Agendamento de Jobs: 
+  - Automação e Agendamento de Jobs:
     - Tecnologias: Rundeck.
   - Configuration Management Database (CMDB):
     - Tecnologias: Device42.
@@ -91,14 +91,14 @@
     - Tecnologias: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
-- Cargo: Zabbix Specialist 
+- Cargo: Zabbix Specialist
 - Barueri – SP
 - 08/2013  - 07/2014
 - Seguimento: Tecnologia
-- Projetos: 
+- Projetos:
   - Burger King:
     - Itens Monitorados: Infraestrutura, Links, Lojas e PDV.
-  - MC Donalds (Arcos Dourados): 
+  - MC Donalds (Arcos Dourados):
     - Itens Monitorados: Infraestrutura, Banco de Dados, Lojas e PDVs.
   - GOL:
     - Itens Monitorados: Check-in e Check-in Mobile.
@@ -118,9 +118,9 @@
 - Barueri – SP
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
-- Projetos: 
+- Projetos:
   - Firewall:
-    - Tecnologias: Sonicwall. 
+    - Tecnologias: Sonicwall.
   - Email Corporativo:
     - Tecnologias: Zimbra, Postgrey, Fail2Ban, Xeams.
   - Virtualização de Data Center:
@@ -134,7 +134,7 @@
 - Cargo: Administrador de Redes
 - Local: Agudos – SP
 - Duração: 04/2010 a 03/2011
-- Seguimento: Órgão Sindical. 
+- Seguimento: Órgão Sindical.
 - Projetos:
   - Virtualização:
     - Tecnologias: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
@@ -149,9 +149,9 @@
 - Local: Presidente Prudente – SP
 - Duração: 05/2006 a 09/2008
 - Seguimento: Instituição de Ensino médio e fundamental.
-- Projetos: 
-  - Active Directory 
-  - Proxy 
+- Projetos:
+  - Active Directory
+  - Proxy
   - Squid/Squid-Guard/Sarg
 
 ### e-Future Informática
@@ -159,7 +159,7 @@
 - Local: Presidente Prudente – SP
 - Duração: 04/2002 a 09/2008
 - Seguimento: Empresa de Manutenção e Suporte em TI.
-- Funções Exercidas: 
+- Funções Exercidas:
   - Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
 
@@ -193,7 +193,7 @@
 - ITSM / CMDB:
   - Confluence, Device42, GLPI, Jira, Ocs Inventory e OTRS.
 - Log Monitoring and Management:
-  - Graylog, Logstash, Syslog-NG. 
+  - Graylog, Logstash, Syslog-NG.
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
 - Middlewares:
@@ -202,7 +202,7 @@
   - Nagios, Oracle Enterprise Manager (OEM12) e Zabbix.
 - Open-Source System Management:
   - Spacewalk, SuSE-Manager, Satellite.
-- Proxy Server: 
+- Proxy Server:
   - Squid, Sarg, SquidGuard.
 - Search and Analytics:
   - Elasticsearch, Grafana, Kibana.
@@ -210,12 +210,6 @@
   - Asterix, Elastix
 - VPN Server:
   -  OpenVPN.
-- XMPP Server:
-  - Openfire.
-- Servidor FTP:
-  - VsFTP, ProFTPd.
-- Security/Audit:
-  - Fail2Ban, Postgrey, Clamav.
 
 ### Cloud:
 - OpenStack.
@@ -226,7 +220,7 @@
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
-- Cisco 
+- Cisco
 - Juniper
 - Netscaler
 
