@@ -32,6 +32,7 @@
   - Conversação – Avançado
 
 ## Certificações:
+- Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
