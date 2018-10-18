@@ -66,8 +66,13 @@
 - 10/2017 - Atual
 - Seguimento: e-commerce
 - Projetos:
-  - Zabbix
-  - ProxMox
+  - Infra as Code: 
+    - Tecnologias: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS.
+  - Monitoring:
+    - Tecnologias: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana.
+  - Freight
+    - Tecnologias: AWS, Redis, ELK, NGINX, php-fpm.
+
 
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
@@ -214,9 +219,10 @@
 ### Cloud:
 - OpenStack.
 - Amazon Web Services (AWS).
+- Google Cloud Platform (GCP).
 
 ### VMware:
-- Disaster Recovery, Vcenter, vSphere, ESXI, DRS, HA, FLT.
+- Vcenter, vSphere, ESXI, DRS, HA, FLT.
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
