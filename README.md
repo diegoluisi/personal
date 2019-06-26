@@ -30,7 +30,10 @@
 - Inglês
   - Leitura / Escrita – Avançado
   - Conversação – Avançado
-
+- Espanhol 
+  - Leitura / Escrita – Básico
+  - Conversação – intermediário
+  
 ## Certificações:
 - Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
@@ -67,12 +70,13 @@
 - Seguimento: e-commerce
 - Projetos:
   - Infra as Code: 
-    - Tecnologias: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS.
+    - Tecnologias: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS, Terraform, Kubernetes, Rundeck.
   - Monitoring:
-    - Tecnologias: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana.
+    - Tecnologias: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana, CloudWatch.
   - Freight
     - Tecnologias: AWS, Redis, ELK, NGINX, php-fpm.
-
+  - LATAM
+    - Tecnologias: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
 
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
@@ -172,7 +176,7 @@
 
 ## Conhecimentos específicos:
 ### Operation System:
-- Linux/Unix (Red Hat, SuSE, Debian, HP-UX e IBM-AIX)
+- Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX e IBM-AIX)
 
 ### Microsoft:
 - Windows Server/Hyper-V (2000, 2003, 2008, 2012)
@@ -181,26 +185,24 @@
 ### Open Source Tools:
 - AntiSpam:
   - Xeams, Sophos, SpamAssassin.
-- Back-up:
-  - Bacula.
+- Cache:
+  - Redis, MemCached.
 - CI/CD:
-  - Rundeck e Jenkins.
+  - Bamboo, Jenkins, CircleCI, CodeDeploy, Travis.
 - Configuration Management:
-  - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt e Salt.
+  - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform e Salt.
 - Containers:
-  - Docker, Rancher e Portainer.
-- Version Control System (VCS):
-  - BitBucket, Gitlab e Github.
+  - Kubernetes, Docker, Rancher.
 - Data Base:
-  - Mysql, PostgreSQL, MariaDB e Oracle.
+  - Mysql, PostgreSQL, MariaDB, MongoDB e Oracle.
 - DNS Server:
   - Bind9.
 - File Server:
   - SAMBA.
 - ITSM / CMDB:
-  - Confluence, Device42, GLPI, Jira, Ocs Inventory e OTRS.
-- Log Monitoring and Management:
-  - Graylog, Logstash, Syslog-NG.
+  - Jira/Confluence, Device42, GLPI, Ocs Inventory e OTRS.
+- Log Management:
+  - Graylog, ELK.
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
 - Middlewares:
@@ -211,29 +213,28 @@
   - Spacewalk, SuSE-Manager, Satellite.
 - Proxy Server:
   - Squid, Sarg, SquidGuard.
-- Search and Analytics:
-  - Elasticsearch, Grafana, Kibana.
+- Version Control System (VCS):
+  - BitBucket, Gitlab e Github.
 - Voip Server:
-  - Asterix, Elastix
+  - Asterix, Elastix.
 
 ### Cloud:
 - OpenStack.
 - Amazon Web Services (AWS).
+  - ALB, ASG, DynamoDB, EBS, ECS, EC2, EKS, GLACIER, LAMBDA, RDS, R53, SQS, SNS, S3. 
 - Google Cloud Platform (GCP).
 
-### VMware:
-- Vcenter, vSphere, ESXI, DRS, HA, FLT.
+### Virtualization:
+- VMWare.
+- ProxMox.
+- Hyper-V.
+- KVM.
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
 - Cisco
 - Juniper
 - Netscaler
-
-### Endpoint Protection Platform (EPP):
-- ESET Endpoint Security
-- Kaspersky
-- Trend Micro
 
 ### Data Storage
 - HP 3Par
