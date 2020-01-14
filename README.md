@@ -41,6 +41,7 @@
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
+- [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 horas)
 - [4435] Administração JBoss AS 7 com Alta Performance e Produtividade
 - [525] Infraestrutura ágil com práticas Devops (Ansible, AWS, Docker, GitLab, Jenkins, Puppet e Rundeck)
