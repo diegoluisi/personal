@@ -63,10 +63,23 @@
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
 ## Experiências Profissional:
+### C&A Modas do Brasil
+- Cargo: Analista de Infraestrutura Linux/Unix Sr.
+- Barueri – SP
+- 08/2019 - Atual
+- Seguimento: Varejo
+- Projetos:
+  - Infra as Code: 
+    - Tecnologias: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
+  - Monitoring:
+    - Tecnologias: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
+  - Container:
+    - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana.
+
 ### Dafiti Group (GFG Group)
 - Cargo: Especialista de Infraestrutura Linux/Unix Sr.
 - São Paulo – SP
-- 10/2017 - Atual
+- 10/2017 - 08/2019
 - Seguimento: e-commerce
 - Projetos:
   - Infra as Code: 
