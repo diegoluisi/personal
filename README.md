@@ -65,7 +65,7 @@
 
 ## Experiências Profissional:
 ### C&A Modas do Brasil
-- Cargo: Analista de Infraestrutura Linux/Unix Sr.
+- Cargo: Especialista de Infraestrutura Linux/Unix Sr.
 - Barueri – SP
 - 08/2019 - Atual
 - Seguimento: Varejo
