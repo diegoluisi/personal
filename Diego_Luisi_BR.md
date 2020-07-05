@@ -11,7 +11,7 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 10 anos de experiência em infraestrutura de TI, atuando com projetos,
+- Possuo mais de 15 anos de experiência em infraestrutura de TI, atuando com projetos,
 administração e sustentação de servidores e sistemas Linux e Unix, especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
 
 ## Expectativas Profissionais:
@@ -250,9 +250,11 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Security/Audit
   - Fail2Ban, Postgrey, Clamav e Syslog-NG
 
-### VMware:
-- Esx e Esxi (5.0 e 5.5)
-- Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
+### On-Premises:
+- VMware
+  - VCenter, DRS, HA, FLT, vSphere, Disaster Recovery.
+- AWS
+  - EC2, ECS, EBS, S3, Glacier, BEANSTALK, LAMBDA, RDS, DynamoDB, ELB, Route 53, SQS, SNS.
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
