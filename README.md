@@ -78,7 +78,7 @@
     - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana.
 
 ### Dafiti Group (GFG Group)
-- Cargo: Analista de Infraestrutura (LATA) Espec.
+- Cargo: Analista de Infraestrutura (LATAM) Espec.
 - São Paulo – SP
 - 10/2017 - 08/2019
 - Seguimento: e-commerce
