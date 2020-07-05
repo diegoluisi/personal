@@ -58,12 +58,29 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
 ## Experiências Profissional:
+### C&A Modas do Brasil
+- Cargo: Analista de Infraestrutura Linux/Unix Espec.
+- Barueri – SP
+- 08/2019 - Atual
+- Seguimento: Varejo
+- Projetos:
+  - Infra As Code:
+    - Puppet, PuppetDB, Terraform, GitLab, GitLab-ci.
+  - Pacific (OpenShift):
+    - OpenShift, Docker, Crio, GitLab e Gitlab-ci.
+
 ### Dafiti Group (GFG Group)
-- Cargo: Especialista de Infraestrutura Linux/Unix Sr.
+- Cargo: Analista de Infraestrutura Linux/Unix Espec (Latam).
 - São Paulo – SP
-- 10/2017 - Atual
+- 10/2017 - 08/2019
 - Seguimento: e-commerce
 - Projetos:
+  - Infra As Code:
+    - Puppet, PuppetDB, Terraform, GitLab, GitLab-ci.
+  - Containers:
+    - Kubernetes.
+  - Monitoração:
+    - Zabbix, New Relic.
 
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Sr.
@@ -89,9 +106,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
   - Device42 – CMDB:
     - Analise de Ferramente para construção de CMDB.
   - SuSE Manager – Implantação SuSE Manager:
-    - Gerenciamento de ambiente Linux.
-    - Atualização de Patchs.
-    - Gestão de Vulnerabilidades.
+    - Gestão de Patchs e Vulnerabilidades.
 
 ### e-Deploy Integrated Technology and Solutions
 - Cargo: Zabbix Specialist 
@@ -120,7 +135,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Monitoração de Firewall, Infraestrutura e Lojas.
 
 ### Grupo Logos – Logistica e Transportes Planejados
-- Cargo: Administrador de Redes
+- Cargo: Network Administrator
 - Barueri – SP
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
@@ -144,7 +159,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Implantação Xeams Antispam.
 
 ### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
-- Cargo: Administrador de Redes
+- Cargo: Network Administrator
 - Local: Agudos – SP
 - Duração: 04/2010 a 03/2011
 - Seguimento: Órgão Sindical. 
@@ -159,7 +174,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Implantação
 
 ### Grupo Santa Alice
-- Cargo: Administrador de Redes
+- Cargo: Network Administrator
 - Local: Presidente Prudente – SP
 - Duração: 05/2006 a 09/2008
 - Seguimento: Instituição de Ensino médio e fundamental.
@@ -244,11 +259,6 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Cisco 
 - Juniper
 - Netscaler
-
-### Endpoint Protection Platform (EPP):
-- ESET Endpoint Security
-- Kaspersky
-- Trend Micro
 
 ### Data Storage
 - HP 3Par
