@@ -11,7 +11,7 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 10 anos de experiência em infraestrutura de TI, com foco em ferramentas Open Source tenho atuando em diversos projetos, administração e sustentação de ambientes Linux e Unix, especialista em gestão de configuração e infraestrutura como código com Puppet e monitoração com Zabbix.
+- Possuo mais de 15 anos de experiência em infraestrutura de TI, com foco em ferramentas Open Source tenho atuando em diversos projetos, administração, sustentação e automação de ambientes Linux e Unix, especialista em gestão de configuração e infraestrutura como código com Puppet e monitoração com Zabbix.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
@@ -65,7 +65,7 @@
 
 ## Experiências Profissional:
 ### C&A Modas do Brasil
-- Cargo: Especialista de Infraestrutura Linux/Unix Sr.
+- Cargo: Analista de Infraestrutura Linux/Unix Espec.
 - Barueri – SP
 - 08/2019 - Atual
 - Seguimento: Varejo
@@ -74,11 +74,11 @@
     - Tecnologias: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
   - Monitoring:
     - Tecnologias: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
-  - Container:
+  - Pacific (OpenShift):
     - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana.
 
 ### Dafiti Group (GFG Group)
-- Cargo: Especialista de Infraestrutura Linux/Unix Sr.
+- Cargo: Analista de Infraestrutura (LATA) Espec.
 - São Paulo – SP
 - 10/2017 - 08/2019
 - Seguimento: e-commerce
