@@ -63,8 +63,8 @@
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
-     
-     
+<br/>
+<br/>     
 ## Experiências Profissional:
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Espec.
