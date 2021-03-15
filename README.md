@@ -41,6 +41,7 @@
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
+- Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
 - [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
 - [526] DevOps Master (24 horas)
 - [4435] Administração JBoss AS 7 com Alta Performance e Produtividade
@@ -63,8 +64,7 @@
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
-<br/>
-<br/>     
+
 ## Experiências Profissional:
 ### C&A Modas do Brasil
 - Cargo: Analista de Infraestrutura Linux/Unix Espec.
