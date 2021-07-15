@@ -16,7 +16,7 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
 
 ![test image size](.images/puppetlabs.png){:height="32px" width="32px"}
  
-[![Twitter Badge](https://img.shields.io/twitter/follow/diegoluisi_?color=%234fffff&label=%40moroleandro_&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/diegoluisi)
+[![Twitter Badge](https://img.shields.io/twitter/follow/diegoluisi?color=%234fffff&label=%40diegoluisi&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/diegoluisi)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoluisi)
 [![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegoluisi)
 
