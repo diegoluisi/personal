@@ -17,9 +17,8 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
 
 
 
-[PT_BR](Diego_Luisi_BR.md)
-
-[EN_US](Diego_Luisi_EN.md)
+📄 ### Curriculum [PT_BR](Diego_Luisi_BR.md)
+📄 ### Curriculum [EN_US](Diego_Luisi_EN.md)
 
 
 
