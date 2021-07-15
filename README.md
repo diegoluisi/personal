@@ -20,6 +20,8 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
 [![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegoluisi)
 
 
+![Puppet](.images/puppet.png)
+
 [PT_BR](Diego_Luisi_BR.md)
 
 [EN_US](Diego_Luisi_EN.md)

@@ -11,7 +11,7 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Tenho mais de 15 anos de experiência e amplo background em infraestrutura, atualmente como SRE com foco em automação tenho contribuido em diversos projetos, possuo grande conhecimento em IAC (infra as code) e pipelines.
+- Possuo mais de 15 anos de experiência, tenho background em infraestrutura com foco em Open Source, atualmente atuando como SRE com foco em automação.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
