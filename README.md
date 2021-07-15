@@ -16,4 +16,6 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
 [![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegoluisi)
 
 
-#### 📄 Curriculum: [PT_BR](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_BR.md) [EN_US](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_EN.md)
+####- 📄 Curriculum:
+  - 🇧🇷[PT_BR](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_BR.md) 
+  - 🇺🇸[EN_US](https://github.com/diegoluisi/personal/blob/master/Diego_Luisi_EN.md)
