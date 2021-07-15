@@ -8,7 +8,7 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>  ![Puppet](.images/puppet-labs.png) ![GitLab](.images/gitlab.png)
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>  ![Puppet](.images/puppet-labs.png) ![GitLab](.images/gitlab.png) ![Zabbix](.images/zabbix.jpeg)
 
  
 [![Twitter Badge](https://img.shields.io/twitter/follow/diegoluisi?color=%234fffff&label=%40diegoluisi&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/diegoluisi)
