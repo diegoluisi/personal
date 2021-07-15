@@ -20,7 +20,7 @@
 - Universidade Nove de Julho (Uninove)
   - Tecnologia em Redes de Computadores
   - São Paulo–SP
-  - Período: 2017 – (Cursando)
+  - Período: 2017 
 - Universidade do Oeste Paulista (Unoeste)
   - Sistemas de Informação
   - Pres. Prudente – SP
@@ -64,14 +64,18 @@
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
+## Experiências Profissional:
 ### Dafiti Group (GFG Group)
 - Cargo: SRE (Site Reliability Engineering).
 - São Paulo – SP
 - 09/2020 - Atual
 - Seguimento: e-commerce
 - Projetos:
+  - ExtShop Migration:
+    - Tecnologias: GitHub, Circle-CI, Puppet, NGINX, Redis, RabbitMQ, Terragrunt, ASG, EC2, S3, R53, Code Depoy.
+  - PCI:
+    - Tecnologias: Argo, EC2, EKS, Lambda, GitHub, Terraform, Vault.
 
-## Experiências Profissional:
 ### C&A Modas do Brasil
 - Cargo: Especialista DevOps.
 - Função: Modernização de aplicações, criação de pipelines e automação de processos.
@@ -84,7 +88,7 @@
   - Monitoring:
     - Tecnologias: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
   - Pacific (OpenShift):
-    - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana.
+    - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka.
 
 ### Dafiti Group (GFG Group)
 - Cargo: Analista de Infraestrutura (LATAM) Espec.
@@ -98,7 +102,7 @@
   - Monitoring:
     - Tecnologias: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana, CloudWatch.
   - Freight
-    - Tecnologias: AWS, Redis, ELK, NGINX, php-fpm.
+    - Tecnologias: AWS, Redis, ELK, NGINX, php-fpm, Terraform.
   - LATAM
     - Tecnologias: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
 

@@ -1,256 +1,276 @@
 ## Personal data:
 - Diego Fernando Luisi
   - Brazilian, single
-  - Ipiranga Street No. 342, Apt 102B Vila Barros Barueri - SP
+  - Rua Ipiranga No. 342, Apt 102B Vila Barros Barueri – SP
   - Date of Birth: February 12, 1986
-  - Telephone: +55 (11) 94464-0434 
-  - LPI ID: LPI000249557 
-  - E-mail: contato@diegoluisi.eti.br 
+  - Telephone: +55 (11) 94464-0434
+  - LPI ID: LPI000249557
+  - E-mail: contato@diegoluisi.eti.br
   - Skype: diego.luisi
   - Blog: http://www.diegoluisi.eti.br
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Summary of qualifications:
-- I have more than 10 years of experience in IT infrastructure, working with projects,
-administration and support of servers and Linux and Unix systems, infrastructure monitoring expert with Zabbix and manages configuration and automation with Puppet.
+- I have more than 15 years of experience and extensive background in infrastructure, currently as an SRE focused on automation, I have contributed to several projects, I have great knowledge in IAC (infra as code) and pipelines.
 
-## Expectations Professionals:
-- Provide resilient solutions in an agile manner, to enable process optimization, have efficient operations, reduce costs, enable rapid expansion and introduce new options that add value and become more competitive.
+## Professional Expectations:
+- Providing resilient solutions in an agile way, which allow optimizing processes, having efficient operations, reducing costs, allowing rapid expansions and presenting new options that add value and make them more competitive.
 
 ## Academic education:
-- University Nove (Uninove)
+-Nove de Julho University (Uninove)
   - Technology in Computer Networks
   - Sao Paulo-SP
-  - Period: 2017 - (Attending)
-- University of West Paulista (Unoeste) 
+  - Period: 2017
+- University of Western São Paulo (Unoeste)
   - Information systems
-  - Pres. Prudente - SP
-  - Period: 2004-2007 (incomplete)
+  - Pres. Prudent - SP
+  - Period: 2004 to 2007 (incomplete)
 
 ## Languages:
 - English
-  - Read / Write - Advanced
+  - Reading / Writing - Advanced
   - Conversation - Advanced
-
+- Spanish
+  - Reading / Writing - Basic
+  - Conversation - intermediate
+  
 ## Certifications:
+- Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Courses and Seminars:
-- [525] agile infrastructure with DevOps practices (Ansible, AWS, Docker, gitlab, Jenkins, and Puppet Rundeck)
-- [SUSE SOC201] Administration with SUSE OpenStack (40 Hours)
+- Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
+- [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
+- [526] DevOps Master (24 hours)
+- [4435] JBoss AS 7 Administration with High Performance and Productivity
+- [525] Agile infrastructure with Devops practices (Ansible, AWS, Docker, GitLab, Jenkins, Puppet and Rundeck)
+- [SUSE SOC201] OpenStack Administration with SUSE (40 Hours)
 - [AIX AN30] Power Systems for AIX PowerVM (40 Hours)
-- [SMGR210] Administration SuSE Manager 3 (24 hours)
-- [CNS-220] Essential Citrix NetScaler CNS-220 - (24 Hours)
-- Fundamentals Puppet - (24 Hours)
+- [SMGR210] SuSE Manager 3 Administration (24 Hours)
+- [CNS-220] Citrix Netscaler Essential CNS-220 – (24 Hours)
+- Puppet Fundamentals - (24 hours)
 - Puppet Practitioner - (24 Hours)
-- Puppet Introduction - (8 hours)
-- [AIX AN140BR] AIX Jump Start - (40 Hours)
-- [SUSE3126] SuSE Linux Enterprise Server 12 (40 Hours)
-- SonicWALL - Basic Network Security Administrator (40 hours)
-- VMware - Implementing and Managing ESXi and vCenter Server 5.1 - (20 hours) 
-- [LX0-101 / 102] Linux - preparatory course LX0-101 / 102 (8 weeks)
+- Puppet Introduction - (8 Hours)
+- [AIX AN140BR]AIX Jump Start - (40 Hours)
+- [SUSE3126]SuSE Linux Enterprise server 12 (40 hours)
+- SonicWALL – Network Security Basic Administrator (40 hours)
+- VMware - Implementing and Managing ESXi and vCenter 5.1 Servers - (20 hours)
+- [LX0-101/102] Linux – Preparatory course LX0-101/102 (8 weeks)
 - ITIL - V3 Foundation - (18 hours)
-- Zimbra - Collaboration Suite (4 hours)
-- Zabbix - Enterprise Open Source Monitoring Solution (4 hours)
-- NGINX - High Performance Web Servers (3 hours)
-- Mysql - Database Management (3 hours)
+- Zimbra – Collaboration Suite (4 hours)
+- Zabbix – Entreprise Open Source Monitoring Solution (4 hours)
+- NGINX – High Performance Web Servers (3 hours)
+- Mysql – Database Management (3 hours)
 
 ## Professional Experiences:
 ### Dafiti Group (GFG Group)
-- Position: Infrastructure Specialist Linux / Unix Mr.
+- Position: SRE (Site Reliability Engineering).
 - Sao Paulo-SP
-- 10/2017 - Current
-- Follow-up: e-commerce
-- Project:
+- 09/2020 - Current
+- Tracking: e-commerce
+- Projects:
+  - ExtShop Migration:
+    - Technologies: GitHub, Circle-CI, Puppet, NGINX, Redis, RabbitMQ, Terragrunt, ASG, EC2, S3, R53, Code Depoy.
+  - PCI:
+    - Technologies: Argo, EC2, EKS, Lambda, GitHub, Terraform, Vault.
 
-### C & A Fashions in Brazil
-- Position: Infrastructure Analyst Linux / Unix Mr.
+### C&A Modas do Brasil
+- Title: DevOps Specialist.
+- Role: Application modernization, pipeline creation and process automation.
+- Barueri - SP
+- 08/2019 - 09/2020
+- Tracking: Retail
+- Projects:
+  - Infra as Code:
+    - Technologies: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
+  - Monitoring:
+    - Technologies: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
+  - Pacific (OpenShift):
+    - Technologies: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana, Kafka.
+
+### Dafiti Group (GFG Group)
+- Position: Infrastructure Analyst (LATAM) Spec.
+- Role: Application modernization, pipeline creation and process automation.
+- Sao Paulo-SP
+- 10/2017 - 08/2019
+- Tracking: e-commerce
+- Projects:
+  - Infra as Code:
+    - Technologies: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS, Terraform, Kubernetes, Rundeck.
+  - Monitoring:
+    - Technologies: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana, CloudWatch.
+  - Freight
+    - Technologies: AWS, Redis, ELK, NGINX, php-fpm, Terraform.
+  - LATAM
+    - Technologies: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
+
+### C&A Modas do Brasil
+- Position: Infrastructure Analyst Linux/Unix Sr.
 - Barueri - SP
 - 08/2014 - 10/2017
 - Tracking: Retail
-- Project:
-  - XStore:
-    - Exchange of 30,000 (POS).
-    - Orchestration with Salt.
-    - Package Manages with SuSE-Manager.
-  - NFCE (Consumer Electronic Invoice):
-    - Implementation systems infrastructure.
-    - Integration with Current Systems.  
-  - Management of Patches and Vulnerabilities:
-    - Update / Upgrade of Unix / Linux.
-  - Puppet - Orchestration Infrastructure and Applications:
-    - Implementation Puppet (Puppet, puppet-DB, puppet-Explorer, Git r10k).
-  - Mobility MacOS:
-    - Management of Apple devices in the corporate environment.
-  - Rundeck: 
-    - Automation Jobs and mesh batch.
-  - Device42 - CMDB:
-    - Analysis tool for building CMDB.
-  - SuSE Manager - Implementation Manager SuSE:
-    - Linux Environment Management.
-    - Patches Update.
-    - Vulnerability Management.
+- Projects:
+  - XStore (Exchange from POS System to Oracle X-Store solution):
+    - Technologies: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
+  - NFCE (NFCE Implementation - Electronic Consumer Invoice):
+    - Technologies: SuSE Linux, JAVA, Oracle.
+  - Patch and Vulnerabilities Management:
+    - Technologies: SuSE Linux, SuSE-Manager, Puppet, MCollective.
+  - Agile Infrastructure:
+    - Technologies: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
+  - MacOS Mobility:
+    - Technologies: Puppet, MacOS Server, Centrify.
+  - Automation and Job Scheduling:
+    - Technologies: Rundeck.
+  - Configuration Management Database (CMDB):
+    - Technologies: Device42.
+  - Linux Environment Management:
+    - Technologies: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
-- Position: Zabbix Specialist 
+- Position: Zabbix Specialist
 - Barueri - SP
-- 10/2013 - 07/2014
+- 08/2013 - 07/2014
 - Tracking: Technology
-- Project: 
+- Projects:
   - Burger King:
-    - POC Monitoring Data Center, Stores and POS.
-  - MC Donalds (Golden Arches): 
-    - Infrastructure Monitoring, Database, Shops and POS
-  - GOL:
-    - Check-in Mobile
-    - Monitoring Check-in
+    - Monitored Items: Infrastructure, Links, Stores and POS.
+  - MC Donalds (Golden Arches):
+    - Monitored Items: Infrastructure, Database, Stores and POS.
+  - GOAL:
+    - Monitored Items: Check-in and Mobile Check-in.
   - Marisa:
-    - Shops monitoring, Telecom and Infrastructure
+    - Monitored Items: Stores, Telecom and Infrastructure.
   - Drugstore SP:
-    - Infrastructure Monitoring, Database and Shops
+    - Monitored Items: Infrastructure, Database, Links and Stores.
   - Staples:
-    - Infrastructure Monitoring
+    - Monitored Items: Infrastructure, Applications and Database.
   - Editora Abril:
-    - Web Application Monitoring
-    - New Relic integration
-    - Infrastructure Monitoring
+    - Monitored Items: Infrastructure Applications and WEB Applications
   - UAB Motors:
-    - Firewall Monitoring, Infrastructure and Shops.
+    - Monitored Items: Firewall, Infrastructure, Applications and Stores.
 
-### Group Logos - Logistics and Transport Planned
+### Logos Group – Logistics and Planned Transport
 - Position: Network Administrator
 - Barueri - SP
 - 01/2012 - 09/2013
-- Tracking: Logistics and Transportation
-- Project: 
+- Follow-up: Logistics and Transport
+- Projects:
   - Firewall:
-    - Firewall Architecture and Deployment (Sonicwall) 
+    - Technologies: Sonicwall.
   - Corporate email:
-    - Zimbra - Upgrade
+    - Technologies: Zimbra, Postgrey, Fail2Ban, Xeams.
   - Data Center Virtualization:
-    - Blades and amenities include configuration IBM and Storage
-    - Implementation VmWare
-    - Configuration ESX
-  - Infrastructure monitoring and systems
-    - Implementation of Zabbix
-    - Infrastructure Monitoring
-    - Branches Monitoring
-  - Linux environment Orchestration
-    - Impantação Puppet
-    - configuraçes Automation
-  - Anti Spam
-    - Implementation Xeams Antispam.
+    - Technologies: VMware.
+  - Infrastructure and systems monitoring
+    - Technologies: Zabbix, Grafana.
+  - Linux environment orchestration
+    - Technologies: Puppet, Puppet-Board, MCollective.
 
-### Fetaesp - Federation of Workers in Agriculture State of Sao Paulo
+### FETAESP - Federation of Agricultural Workers of the State of São Paulo
 - Position: Network Administrator
-- Location: Treble - SP
+- Location: Agudos - SP
 - Duration: 04/2010 to 03/2011
-- Tracking: Trade Union Body. 
-- Project:
-  - Virtualization 
-    - Deploying Hyper-V 
-  - Centralized Authentication
-    - Active Directory - Implementation 
-  - Safer Internet
-    - Proxy Deployment with (Squid, Squid-Guard and Sarg) 
-  - Terminal Services 
-    - Implementation
+- Follow-up: Union Organ.
+- Projects:
+  - Virtualization:
+    - Technologies: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
+  - Centralized Authentication:
+    - Technologies: Active Directory.
+  - Safe Internet:
+    - Technologies: Squid, Squid-Guard and Sarg.
+  - Structured cabling.
 
 ### Santa Alice Group
 - Position: Network Administrator
 - Location: Presidente Prudente - SP
 - Duration: 05/2006 to 09/2008
-- Follow-up: Establishing primary and education.
-- Project: 
-  - Active Directory 
-  - Proxy 
-  - Squid / Squid-Guard / Sarg
+- Follow-up: Secondary and Elementary Education Institution.
+- Projects:
+  - Active Directory
+  - Proxy
+  - Squid/Squid-Guard/Sarg
 
-### e-Future Information Technology
+### e-Future Informatics
 - Position: Owner Partner
 - Location: Presidente Prudente - SP
 - Duration: 04/2002 to 09/2008
-- Follow-up: Enterprise Maintenance and Support IT.
-- Offices Held: 
-  - Support, Project, Installation and Maintenance of Servers and Network.
+- Follow-up: IT Maintenance and Support Company.
+- Functions performed:
+  - Support, Design, Installation and Maintenance in Servers and Network.
 
 
 ## Specific knowledge:
 ### Operation System:
-- Linux (Red Hat, Debian, SuSE)
-- Unix (HP-UX, IBM-AIX)
-- Windows Server (2000, 2003, 2008, 2012)
-- ESXi (4.0, 5.0, 6.0)
+- Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX and IBM-AIX)
 
 ### Microsoft:
-- Windows 2000, 2003, 2008, 2012 and Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Audit, WSUS
-- Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access, and Unified Messaging)
-- Database Server (MS SQL, Firebird)
+- Windows Server/Hyper-V (2000, 2003, 2008, 2012)
+  - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
-### Linux:
+### Open Source Tools:
 - AntiSpam:
-  - Xeams, Sophos, SpamAssassin
-- Automation / Continuous Integration:
-  - Rundeck and Jenkins
-- Back-up 
-  - Bacula
-- Containers Management
-  - Rancher, Docker
-- Version Control System (VCS)
-  - gitlab and Github
+  - Xeams, Sophos, SpamAssassin.
+- Cache:
+  - Redis, MemCached.
+- CI/CD:
+  - Bamboo, Jenkins, CircleCI, CodeDeploy, Travis.
+- Configuration Management:
+  - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform and Salt.
+- Containers:
+  - Docker, OpenShift, EKS, Kubernetes, Rancher.
 - Data base:
-  - MySQL, PostgreSQL, Oracle and MariaDB.
+  - Mysql, PostgreSQL, MariaDB, MongoDB and Oracle.
 - DNS Server:
-  - Bind9
+  - Bind9.
 - File Server:
-  - SAMBA
-- Service Desk / CMDB:
-  - GLPI, Jira, OTRS, Ocs Inventory and Device42.
+  - SAMBA.
+- ITSM / CMDB:
+  - Jira/Confluence, Device42, GLPI, Ocs Inventory and OTRS.
+- Log Management:
+  - Graylog, ELK.
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
-- Middleware:
+- Middlewares:
   - Apache, JBoss, Nginx, Tomcat, Weblogic.
 - Monitoring:
-  - Nagios
-  - Oracle Enterprise Manager (OEM12)
-  - Zabbix (1.8, 2.0, 2.4, 3.0, 3.4)
+  - Nagios, Oracle Enterprise Manager (OEM12) and Zabbix.
 - Open-Source System Management:
-  - Spacewalk, SuSE-Manager, Satellite
-- Orchestration:
-  - MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, Ansible and Chef
-- Proxy Server: 
-  - Squid, Sarg, SquidGuard
-- Search and Analytics
-  - ElasticSearch, Grafana, Kibana, Logstash.
-- VoIP Server:
-  - Asterix, Elastix
-- VPN Server:
-  - OpenVPN
-- XMPP Server 
-  - Openfire
-- FTP Server:
-  - vsftp, ProFTPd
-- Security / Audit
-  - Fail2ban, postgrey, Clamav and Syslog-NG
+  - Spacewalk, SuSE-Manager, Satellite.
+- Proxy Server:
+  - Squid, Sarg, SquidGuard.
+- Version Control System (VCS):
+  - BitBucket, Gitlab and Github.
+- Voip Server:
+  - Asterix, Elastix.
 
-### VMware:
-- Esx and ESXi (5.0 and 5.5)
-- Vcenter, DRS, HA, FLT, vSphere, Disaster Recovery.
+### Cloud:
+- OpenStack.
+- Amazon Web Services (AWS).
+  - ALB, ASG, DynamoDB, EBS, ECS, EC2, EKS, GLACIER, LAMBDA, RDS, R53, SQS, SNS, S3.
+- Google Cloud Platform (GCP).
 
-### Unified Threat Management (UTM):
+### Virtualization:
+- VMWare.
+- ProxMox.
+- Hyper-V.
+- KVM.
+
+### Unified Threat Management (UTM ):
 - Sonicwall (CSSA and CSSP)
-- Cisco 
+- Cisco
 - Juniper
-- NetScaler
-
-Platform Protection Endpoint ### (PPS):
-- ESET Endpoint Security
-- Kaspersky
-- Trend Micro
+- Netscaler
 
 ### Data Storage
-- HP 3Par
-- IBM 
+- HP 3Pair
+- IBM V7000
+
+### Methodologies/Frameworks
+- ITIL
+- Agile
+- Scrum
+- Kanban
 

@@ -14,7 +14,6 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     
 
-![test image size](.images/puppetlabs.png){:height="32px" width="32px"}
  
 [![Twitter Badge](https://img.shields.io/twitter/follow/diegoluisi?color=%234fffff&label=%40diegoluisi&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/diegoluisi)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoluisi)
