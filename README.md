@@ -13,6 +13,7 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     
+![Puppet](.images/puppet-labs.png)
 
  
 [![Twitter Badge](https://img.shields.io/twitter/follow/diegoluisi?color=%234fffff&label=%40diegoluisi&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/diegoluisi)
@@ -20,7 +21,6 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
 [![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegoluisi)
 
 
-![Puppet](.images/puppet-labs.png)
 
 [PT_BR](Diego_Luisi_BR.md)
 
