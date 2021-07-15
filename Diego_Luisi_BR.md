@@ -3,15 +3,15 @@
   - Brasileiro, Solteiro
   - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
   - Data de Nascimento: 12 de fevereiro de 1986
-  - Telefone: +55 (11) 94464-0434 
-  - LPI ID: LPI000249557 
-  - Correio Eletrônico: contato@diegoluisi.eti.br 
+  - Telefone: +55 (11) 94464-0434
+  - LPI ID: LPI000249557
+  - Correio Eletrônico: contato@diegoluisi.eti.br
   - Skype: diego.luisi
   - Blog: http://www.diegoluisi.eti.br
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 15 anos de experiência nas áreas de Tecnologia, tendo atuado em diversos projetos, com grande experiência em automação e gestão de ambientes críticos.
+- Tenho mais de 15 anos de experiência e amplo background em infraestrutura, atualmente como SRE com foco em automação tenho contribuido em diversos projetos, possuo grande conhecimento em IAC (infra as code) e pipelines.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
@@ -21,7 +21,7 @@
   - Tecnologia em Redes de Computadores
   - São Paulo–SP
   - Período: 2017 – (Cursando)
-- Universidade do Oeste Paulista (Unoeste) 
+- Universidade do Oeste Paulista (Unoeste)
   - Sistemas de Informação
   - Pres. Prudente – SP
   - Período:  2004 a 2007 (incompleto)
@@ -30,18 +30,22 @@
 - Inglês
   - Leitura / Escrita – Avançado
   - Conversação – Avançado
-- Espanhol
+- Espanhol 
   - Leitura / Escrita – Básico
-  - Conversação – Intermediário
-
+  - Conversação – intermediário
+  
 ## Certificações:
+- Scrum Fundamentals Certified
 - SonicWALL Network Security Basic Administration (CSSA)
 - SonicWALL Network Security Advanced Administration (CSSP)
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
-- Developing on AWS
-- [525]Infraestrutura ágil com práticas Devops (Ansible, AWS, Docker, GitLab, Jenkins, Puppet e Rundeck)
+- Developing on AWS (AWS SDK, IAM, S3, DynamoDB, SNS, SQS, Lambda, Cognito)
+- [DO180] Introduction to Containers, Kubernetes, and Red Hat OpenShift
+- [526] DevOps Master (24 horas)
+- [4435] Administração JBoss AS 7 com Alta Performance e Produtividade
+- [525] Infraestrutura ágil com práticas Devops (Ansible, AWS, Docker, GitLab, Jenkins, Puppet e Rundeck)
 - [SUSE SOC201] OpenStack Administration with SUSE (40 Horas)
 - [AIX AN30] Power Systems for AIX PowerVM (40 Horas)
 - [SMGR210] SuSE Manager 3 Administration (24 Horas)
@@ -52,7 +56,7 @@
 - [AIX AN140BR]AIX Jump Start – (40 Horas)
 - [SUSE3126]SuSE Linux Enterprise server 12 (40 Horas)
 - SonicWALL – Network Security Basic Administrator (40 horas)
-- VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas) 
+- VMware - Implementando e Gerenciando os servidores ESXi e vCenter 5.1 – (20 horas)
 - [LX0-101/102] Linux – Curso preparatorio LX0-101/102 (8 semanas)
 - ITIL - V3 Foundation – (18 horas)
 - Zimbra – Suite de Colaboração (4 horas)
@@ -60,143 +64,129 @@
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
-## Experiências Profissional:
 ### Dafiti Group (GFG Group)
-- Cargo: Spec SRE (Site Reliability Engineering).
+- Cargo: SRE (Site Reliability Engineering).
 - São Paulo – SP
-- 07/2020 - Atual
+- 09/2020 - Atual
 - Seguimento: e-commerce
 - Projetos:
-  - Infra As Code:
-    - Puppet, PuppetDB, Terraform, GitLab, GitLab-ci.
-  - Containers:
-    - Kubernetes.
-  - Monitoração:
-    - Zabbix, New Relic.
 
+## Experiências Profissional:
 ### C&A Modas do Brasil
-- Cargo: Spec DevOps Master.
+- Cargo: Especialista DevOps.
+- Função: Modernização de aplicações, criação de pipelines e automação de processos.
 - Barueri – SP
-- 08/2019 - 07/2020
+- 08/2019 - 09/2020
 - Seguimento: Varejo
 - Projetos:
-  - Infra As Code:
-    - Puppet, PuppetDB, Terraform, GitLab, GitLab-ci.
+  - Infra as Code: 
+    - Tecnologias: Puppet, R10k, Puppet-Bolt, GitLab, GitLab-CI, Vagrant, Terraform.
+  - Monitoring:
+    - Tecnologias: Logstash, Elasticsearch, Kibana, Kafka, Filebeat, Grafana, Prometheus, Icinga2.
   - Pacific (OpenShift):
-    - OpenShift, Docker, Crio, GitLab e Gitlab-ci.
+    - Tecnologias: OpenShift, GitLab, Gitlab-CI, Prometheus, ELK, Grafana.
 
 ### Dafiti Group (GFG Group)
-- Cargo: Spec DevOps (Latam).
+- Cargo: Analista de Infraestrutura (LATAM) Espec.
+- Função: Modernização de aplicações, criação de pipelines e automação de processos.
 - São Paulo – SP
 - 10/2017 - 08/2019
 - Seguimento: e-commerce
 - Projetos:
-  - Infra As Code:
-    - Puppet, PuppetDB, Terraform, GitLab, GitLab-ci.
-  - Containers:
-    - Kubernetes.
-  - Monitoração:
-    - Zabbix, New Relic.
+  - Infra as Code: 
+    - Tecnologias: Puppet, R10k, Puppet-Bolt, Git, Vagrant, AWS, Terraform, Kubernetes, Rundeck.
+  - Monitoring:
+    - Tecnologias: Zabbix, Grafana, InfluxDB, Metricbeat, Filebeat, Kibana, CloudWatch.
+  - Freight
+    - Tecnologias: AWS, Redis, ELK, NGINX, php-fpm.
+  - LATAM
+    - Tecnologias: AWS, Puppet, Memcached, Terraform, Zabbix/Grafana.
 
 ### C&A Modas do Brasil
-- Cargo: SysAdmin Sr.
+- Cargo: Analista de Infraestrutura Linux/Unix Sr.
 - Barueri – SP
 - 08/2014 - 10/2017
 - Seguimento: Varejo
 - Projetos:
-  - XStore:
-    - Troca de 30.000 (PDVs).
-    - Orquestração com Salt.
-    - Gerencia de Pacotes com SuSE-Manager.
-  - NFCE (Nota Fiscal Consumidor Eletronica):
-    - Implantação infraestrutura de Sistemas.
-    - Integração com Sistemas Atuais.  
+  - XStore (Troca de Sistema de PDV para solução Oracle X-Store):
+    - Tecnologias: SuSE Linux, SuSE-Manager, SALT, Git, X-Store.
+  - NFCE (Implantação NFCE - Nota Fiscal Consumidor Eletronica):
+    - Tecnologias: SuSE Linux, JAVA, Oracle.
   - Gestão de Patchs e Vulnerabilidades:
-    - Update/Upgrade de ambientes Unix/Linux.
-  - Puppet - Orquestração de Infraestrutura e Aplicações:
-    - Implantação de Puppet (Puppet, Puppet-DB, Puppet-Explorer, Git, r10k).
+    - Tecnologias: SuSE Linux, SuSE-Manager, Puppet, MCollective.
+  - Infraestrutura Ágil:
+    - Tecnologias: Puppet, Puppet-DB, Puppet-Explorer, Git, r10k, MCollective.
   - Mobilidade MacOS:
-    - Gerencia de devices Apple em ambiente corporativo.
-  - Rundeck: 
-    - Automação de Jobs e malha batch.
-  - Device42 – CMDB:
-    - Analise de Ferramente para construção de CMDB.
-  - SuSE Manager – Implantação SuSE Manager:
-    - Gestão de Patchs e Vulnerabilidades.
+    - Tecnologias: Puppet, MacOS Server, Centrify.
+  - Automação e Agendamento de Jobs:
+    - Tecnologias: Rundeck.
+  - Configuration Management Database (CMDB):
+    - Tecnologias: Device42.
+  - Gerenciamento de Ambientes Linux:
+    - Tecnologias: SuSE-Manager, OpenScap.
 
 ### e-Deploy Integrated Technology and Solutions
-- Cargo: SysAdmin Sr./Zabbix Specialist 
+- Cargo: Zabbix Specialist
 - Barueri – SP
-- 10/2013  - 07/2014
+- 08/2013  - 07/2014
 - Seguimento: Tecnologia
-- Projetos: 
+- Projetos:
   - Burger King:
-    - POC Monitoração de Data Center, Lojas e PDV.
-  - MC Donalds (Arcos Dourados): 
-    - Monitoração de Infraestrutura, Banco de Dados, Lojas e PDVs
+    - Itens Monitorados: Infraestrutura, Links, Lojas e PDV.
+  - MC Donalds (Arcos Dourados):
+    - Itens Monitorados: Infraestrutura, Banco de Dados, Lojas e PDVs.
   - GOL:
-    - Check-in Mobile
-    - Monitoração Check-in
+    - Itens Monitorados: Check-in e Check-in Mobile.
   - Marisa:
-    - Monitoração de Lojas, Telecom e Infraestrutura
+    - Itens Monitorados: Lojas, Telecom e Infraestrutura.
   - Drogaria SP:
-    - Monitoração de Infraestrutura, Banco de Dados e Lojas
+    - Itens Monitorados: Infraestrutura, Banco de Dados, Links e Lojas.
   - Staples:
-    - Monitoração de Infraestrutura
+    - Itens Monitorados: Infraestrutura, Aplicações e Banco de Dados.
   - Editora Abril:
-    - Monitoração de Aplicações WEB
-    - Integração New Relic
-    - Monitoração de Infraestrutura
+    - Itens Monitorados: Infraestuturam Aplicações e Aplicações WEB
   - UAB Motors:
-    - Monitoração de Firewall, Infraestrutura e Lojas.
+    - Itens Monitorados: Firewall, Infraestrutura, Aplicaçes e Lojas.
 
 ### Grupo Logos – Logistica e Transportes Planejados
-- Cargo: SysAdmin Sr.
+- Cargo: Administrador de Redes
 - Barueri – SP
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
-- Projetos: 
+- Projetos:
   - Firewall:
-    - Arquitetura e Implantação de Firewall (Sonicwall) 
+    - Tecnologias: Sonicwall.
   - Email Corporativo:
-    - Zimbra - Upgrade
-  - Virtualização de Data Center:
-    - Instalaço e configuração Blades IBM e Storage
-    - Implantação VmWare
-    - Configuração ESX
-  - Monitoração de Infraestrutura e sistemas
-    - Implantação de Zabbix
-    - Monitoração de Infraestrutura
-    - Monitoração de Filiais
-  - Orquestração de ambiente Linux
-    - Impantação Puppet
-    - Automação de configuraçes
-  - Anti Spam
-    - Implantação Xeams Antispam.
+    - Tecnologias: Zimbra, Postgrey, Fail2Ban, Xeams.
+  - Virtualização de Data Center:
+    - Tecnologias: VMware.
+  - Monitoração de Infraestrutura e sistemas
+    - Tecnologias: Zabbix, Grafana.
+  - Orquestração de ambiente Linux
+    - Tecnologias: Puppet, Puppet-Board, MCollective.
 
 ### FETAESP - Federação dos Trabalhadores na Agricultura do Estado de São Paulo
-- Cargo: Network Administrator
+- Cargo: Administrador de Redes
 - Local: Agudos – SP
 - Duração: 04/2010 a 03/2011
-- Seguimento: Órgão Sindical. 
+- Seguimento: Órgão Sindical.
 - Projetos:
-  - Virtualização 
-    - Implantação Hyper-v 
-  - Autenticação Centralizada
-    - Active Directory - Implantação 
-  - Internet Segura
-    - Implantação de Proxy com (Squid, Squid-Guard e Sarg) 
-  - Terminal Services 
-    - Implantação
+  - Virtualização:
+    - Tecnologias: Hyper-v, XP Unlimited, ThinStation, MS Terminal Service.
+  - Autenticação Centralizada:
+    - Tecnologias: Active Directory.
+  - Internet Segura:
+    - Tecnologias: Squid, Squid-Guard e Sarg.
+  - Cabeamento Estruturado.
 
 ### Grupo Santa Alice
-- Cargo: Network Administrator
+- Cargo: Administrador de Redes
 - Local: Presidente Prudente – SP
 - Duração: 05/2006 a 09/2008
 - Seguimento: Instituição de Ensino médio e fundamental.
-- Projetos: 
-  - Active Directory 
-  - Proxy 
+- Projetos:
+  - Active Directory
+  - Proxy
   - Squid/Squid-Guard/Sarg
 
 ### e-Future Informática
@@ -204,81 +194,78 @@
 - Local: Presidente Prudente – SP
 - Duração: 04/2002 a 09/2008
 - Seguimento: Empresa de Manutenção e Suporte em TI.
-- Funções Exercidas: 
+- Funções Exercidas:
   - Suporte, Projeto, Instalação e Manutenção em Servidores e Rede.
 
 
 ## Conhecimentos específicos:
 ### Operation System:
-- Linux (Red Hat, Debian, SuSE)
-- Unix (HP-UX, IBM-AIX)
-- Windows Server (2000, 2003, 2008, 2012)
-- ESXi (4.0, 5.0, 6.0)
+- Linux/Unix (Red Hat, SuSE, Debian, CoreOS, HP-UX e IBM-AIX)
 
 ### Microsoft:
-- Windows 2000, 2003, 2008, 2012 e Hyper-V (AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, Auditoria, WSUS
-- Exchange Server (Edge Transport, Hub Transport, Mailbox, Client Access e Unified Messaging)
-- Servidor Banco de Dados (MS SQL, Firebird)
+- Windows Server/Hyper-V (2000, 2003, 2008, 2012)
+  - AD, DFS, DNS, DHCP, FTP, GPO, IIS, TS, WSUS
 
-### Linux:
+### Open Source Tools:
 - AntiSpam:
-  - Xeams, Sophos, SpamAssassin
-- Automation/Continuous Integration:
-  - Rundeck e Jenkins
-- Back-up 
-  - Bacula
-- Containers Management
-  - Rancher, Docker
-- Version Control System (VCS)
-  - Gitlab e Github
+  - Xeams, Sophos, SpamAssassin.
+- Cache:
+  - Redis, MemCached.
+- CI/CD:
+  - Bamboo, Jenkins, CircleCI, CodeDeploy, Travis.
+- Configuration Management:
+  - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform e Salt.
+- Containers:
+  - Docker, OpenShift, EKS, Kubernetes, Rancher.
 - Data Base:
-  - Mysql, PostgreSQL, MariaDB e Oracle.
+  - Mysql, PostgreSQL, MariaDB, MongoDB e Oracle.
 - DNS Server:
-  - Bind9
+  - Bind9.
 - File Server:
-  - SAMBA
-- Service Desk / CMDB:
-  - GLPI, Jira, OTRS, Ocs Inventory e Device42.
+  - SAMBA.
+- ITSM / CMDB:
+  - Jira/Confluence, Device42, GLPI, Ocs Inventory e OTRS.
+- Log Management:
+  - Graylog, ELK.
 - Mail Server:
   - Zimbra, Postfix, Dovecot.
 - Middlewares:
   - Apache, JBoss, Nginx, Tomcat, Weblogic.
 - Monitoring :
-  - Nagios
-  - Oracle Enterprise Manager (OEM12)
-  - Zabbix (1.8, 2.0, 2.4, 3.0, 3.04)
+  - Nagios, Oracle Enterprise Manager (OEM12) e Zabbix.
 - Open-Source System Management:
-  - Spacewalk, SuSE-Manager, Satellite
-- Orchestration:
-  - MCollective, Puppet, PuppetDB, Puppet-Explorer, Salt, Vagrant, Ansible e Chef
-- Proxy Server: 
-  - Squid, Sarg, SquidGuard
-- Search and Analytics
-  - Elasticsearch, Grafana, Kibana, Logstash, Graylog.
+  - Spacewalk, SuSE-Manager, Satellite.
+- Proxy Server:
+  - Squid, Sarg, SquidGuard.
+- Version Control System (VCS):
+  - BitBucket, Gitlab e Github.
 - Voip Server:
-  - Asterix, Elastix
-- VPN Server:
-  -  OpenVPN
-- XMPP Server 
-  - Openfire
-- Servidor FTP:
-  - VsFTP, ProFTPd
-- Security/Audit
-  - Fail2Ban, Postgrey, Clamav e Syslog-NG
+  - Asterix, Elastix.
 
-### On-Premises:
-- VMware
-  - VCenter, DRS, HA, FLT, vSphere, Disaster Recovery.
-- AWS
-  - ASG, Code Deploy, EC2, ECS, EBS, S3, Glacier, BEANSTALK, LAMBDA, RDS, DynamoDB, ELB, Route 53, SQS, SNS.
+### Cloud:
+- OpenStack.
+- Amazon Web Services (AWS).
+  - ALB, ASG, DynamoDB, EBS, ECS, EC2, EKS, GLACIER, LAMBDA, RDS, R53, SQS, SNS, S3. 
+- Google Cloud Platform (GCP).
+
+### Virtualization:
+- VMWare.
+- ProxMox.
+- Hyper-V.
+- KVM.
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)
-- Cisco 
+- Cisco
 - Juniper
 - Netscaler
 
 ### Data Storage
 - HP 3Par
-- IBM 
+- IBM V7000
 
+### Metodologias/Frameworks
+- ITIL
+- Ágil
+- Scrum
+- Kanban
