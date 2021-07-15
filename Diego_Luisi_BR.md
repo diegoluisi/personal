@@ -11,8 +11,7 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 15 anos de experiência em infraestrutura de TI, atuando com projetos,
-administração e sustentação de servidores e sistemas Linux e Unix, especialista em monitoração de infraestrutura com Zabbix e gerencia de configuração e automação com Puppet.
+- Possuo mais de 15 anos de experiência nas áreas de Tecnologia, tendo atuado em diversos projetos, com grande experiência em automação e gestão de ambientes críticos.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
@@ -31,6 +30,9 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Inglês
   - Leitura / Escrita – Avançado
   - Conversação – Avançado
+- Espanhol
+  - Leitura / Escrita – Básico
+  - Conversação – Intermediário
 
 ## Certificações:
 - SonicWALL Network Security Basic Administration (CSSA)
@@ -38,6 +40,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - ITIL® v3 - Foundation Certificate in IT Service Management
 
 ## Cursos e Seminários:
+- Developing on AWS
 - [525]Infraestrutura ágil com práticas Devops (Ansible, AWS, Docker, GitLab, Jenkins, Puppet e Rundeck)
 - [SUSE SOC201] OpenStack Administration with SUSE (40 Horas)
 - [AIX AN30] Power Systems for AIX PowerVM (40 Horas)
@@ -58,10 +61,23 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
 ## Experiências Profissional:
+### Dafiti Group (GFG Group)
+- Cargo: Spec SRE (Site Reliability Engineering).
+- São Paulo – SP
+- 07/2020 - Atual
+- Seguimento: e-commerce
+- Projetos:
+  - Infra As Code:
+    - Puppet, PuppetDB, Terraform, GitLab, GitLab-ci.
+  - Containers:
+    - Kubernetes.
+  - Monitoração:
+    - Zabbix, New Relic.
+
 ### C&A Modas do Brasil
-- Cargo: Analista de Infraestrutura Linux/Unix Espec.
+- Cargo: Spec DevOps Master.
 - Barueri – SP
-- 08/2019 - Atual
+- 08/2019 - 07/2020
 - Seguimento: Varejo
 - Projetos:
   - Infra As Code:
@@ -70,7 +86,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - OpenShift, Docker, Crio, GitLab e Gitlab-ci.
 
 ### Dafiti Group (GFG Group)
-- Cargo: Analista de Infraestrutura Linux/Unix Espec (Latam).
+- Cargo: Spec DevOps (Latam).
 - São Paulo – SP
 - 10/2017 - 08/2019
 - Seguimento: e-commerce
@@ -83,7 +99,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Zabbix, New Relic.
 
 ### C&A Modas do Brasil
-- Cargo: Analista de Infraestrutura Linux/Unix Sr.
+- Cargo: SysAdmin Sr.
 - Barueri – SP
 - 08/2014 - 10/2017
 - Seguimento: Varejo
@@ -109,7 +125,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Gestão de Patchs e Vulnerabilidades.
 
 ### e-Deploy Integrated Technology and Solutions
-- Cargo: Zabbix Specialist 
+- Cargo: SysAdmin Sr./Zabbix Specialist 
 - Barueri – SP
 - 10/2013  - 07/2014
 - Seguimento: Tecnologia
@@ -135,7 +151,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
     - Monitoração de Firewall, Infraestrutura e Lojas.
 
 ### Grupo Logos – Logistica e Transportes Planejados
-- Cargo: Network Administrator
+- Cargo: SysAdmin Sr.
 - Barueri – SP
 - 01/2012 – 09/2013
 - Seguimento: Logística e Transportes
@@ -238,7 +254,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - Proxy Server: 
   - Squid, Sarg, SquidGuard
 - Search and Analytics
-  - Elasticsearch, Grafana, Kibana, Logstash.
+  - Elasticsearch, Grafana, Kibana, Logstash, Graylog.
 - Voip Server:
   - Asterix, Elastix
 - VPN Server:
@@ -254,7 +270,7 @@ administração e sustentação de servidores e sistemas Linux e Unix, especiali
 - VMware
   - VCenter, DRS, HA, FLT, vSphere, Disaster Recovery.
 - AWS
-  - EC2, ECS, EBS, S3, Glacier, BEANSTALK, LAMBDA, RDS, DynamoDB, ELB, Route 53, SQS, SNS.
+  - ASG, Code Deploy, EC2, ECS, EBS, S3, Glacier, BEANSTALK, LAMBDA, RDS, DynamoDB, ELB, Route 53, SQS, SNS.
 
 ### Unified Threat Management (UTM ):
 - Sonicwall (CSSA e CSSP)

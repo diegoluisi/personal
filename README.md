@@ -11,7 +11,7 @@
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
-- Possuo mais de 15 anos de experiência em infraestrutura de TI, com foco em ferramentas Open Source tenho atuando em diversos projetos, administração, sustentação e automação de ambientes Linux e Unix, especialista em gestão de configuração e infraestrutura como código com Puppet e monitoração com Zabbix.
+- Tenho mais de 15 anos de experiência e amplo background em infraestrutura, atualmente como SRE com foco em automação tenho contribuido em diversos projetos, possuo grande conhecimento em IAC (infra as code) e pipelines.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
@@ -64,12 +64,19 @@
 - NGINX – Servidores Web de Alta Performance (3 horas)
 - Mysql – Gerenciamento de Banco de Dados (3 horas)
 
+### Dafiti Group (GFG Group)
+- Cargo: SRE (Site Reliability Engineering).
+- São Paulo – SP
+- 03/2020 - Atual
+- Seguimento: e-commerce
+- Projetos:
 
 ## Experiências Profissional:
 ### C&A Modas do Brasil
-- Cargo: Analista de Infraestrutura Linux/Unix Espec.
+- Cargo: Especialista DevOps.
+- Função: Modernização de aplicações, criação de pipelines e automação de processos.
 - Barueri – SP
-- 08/2019 - Atual
+- 08/2019 - 09/2020
 - Seguimento: Varejo
 - Projetos:
   - Infra as Code: 
@@ -81,6 +88,7 @@
 
 ### Dafiti Group (GFG Group)
 - Cargo: Analista de Infraestrutura (LATAM) Espec.
+- Função: Modernização de aplicações, criação de pipelines e automação de processos.
 - São Paulo – SP
 - 10/2017 - 08/2019
 - Seguimento: e-commerce
@@ -208,7 +216,7 @@
 - Configuration Management:
   - Ansible, Chef, Puppet, PuppetDB, Puppet-Explorer, MCollective, Puppet Bolt, Terraform e Salt.
 - Containers:
-  - Kubernetes, Docker, Rancher.
+  - Docker, OpenShift, EKS, Kubernetes, Rancher.
 - Data Base:
   - Mysql, PostgreSQL, MariaDB, MongoDB e Oracle.
 - DNS Server:
