@@ -8,8 +8,8 @@
   - :envelope_with_arrow: contato@diegoluisi.eti.br
   - Skype: diego.luisi
   - :globe_with_meridians: http://www.diegoluisi.eti.br
-  - LinkedIn: http://www.linkedin.com/in/diegoluisi
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](http://www.linkedin.com/in/diegoluisi)
+  - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
 
 ## Resumo das qualificações:
 - Possuo mais de 15 anos de experiência, tenho background em infraestrutura com foco em Open Source, atualmente atuando como SRE com foco em automação.
