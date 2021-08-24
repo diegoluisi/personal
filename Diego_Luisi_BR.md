@@ -3,11 +3,11 @@
   - Brasileiro, Solteiro
   - Rua Ipiranga n° 342, Apto 102B Vila Barros Barueri – SP
   - Data de Nascimento: 12 de fevereiro de 1986
-  - Telefone: +55 (11) 94464-0434
+  - :calling: +55 (11) 94464-0434
   - LPI ID: LPI000249557
   - :envelope_with_arrow: contato@diegoluisi.eti.br
   - Skype: diego.luisi
-  - Blog: http://www.diegoluisi.eti.br
+  - :globe_with_meridians: http://www.diegoluisi.eti.br
   - LinkedIn: http://www.linkedin.com/in/diegoluisi
 
 ## Resumo das qualificações:
