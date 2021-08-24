@@ -1,4 +1,4 @@
-#  🤖 Hi, I'm Diego Luisi.
+#  :rocket: Hi, I'm Diego Luisi.
 
 Passionate about technology, acting as SRE. Open to learn new technologies and methodologies to improve every day more as a professional.
 
