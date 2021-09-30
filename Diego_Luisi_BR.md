@@ -11,7 +11,7 @@
   - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/diegoluisi/)
 
 ## Resumo das qualificações:
-- Entusiasta da cultura DevOps e apaixonado por Open Source, tenho background de 20 anos como SysAdmin, atualmente trabalho como SRE, aberto para aprender novas tecnologias e procedimentos para melhorar a cada dia mais como profissional.
+- Entusiasta da cultura DevOps e apaixonado por Open Source, tenho 20 anos de background como SysAdmin, atualmente trabalho como SRE, aberto para aprender novas tecnologias e procedimentos para melhorar a cada dia mais como profissional.
 
 ## Expectativas Profissionais:
 - Prover soluções resilientes de maneira ágil, que possibilitem otimizar processos, ter operações eficientes, reduzir custos, permitir rápidas expansões e apresentar novas opções que agreguem valores e as tornem mais competitivas.
